@@ -1,15 +1,7 @@
-#author: Edna Cruz Fl version modificada 4 sep 2022
-## =============  Variables para rutas de los archivos input/output ===========
-##Rutas para secuencias DR
-#my $inputdata = "C:\\Users\\Edna Cruz Fl\\Documents\\MOCA\\PIPLINECRISPRCas\\DLCRISPR\\CRISPRstructsBinaryModel_Test\\OutEstructurasU91.fasta";
+
 my $inputdata = "/scratch/alida_uaem/cluster/Results/all_dup_julio.fasta";
 my $output = "/scratch/alida_uaem/cluster/Results/all_dup_julio_2.fasta.csv";
 
-#my $inputdata = "C:\\Users\\EdnaCruzFlores\\Downloads\\db_ali\\all_dup_julio.fasta";
-#my $output = "C:\\Users\\EdnaCruzFlores\\Downloads\\db_ali\\all_dup_julio.fasta.csv";
-
-
-#my $output = "C:\\Users\\Edna Cruz Fl\\Documents\\MOCA\\PIPLINECRISPRCas\\DLCRISPR\\CRISPRstructsBinaryModel_Test\\Posprocesamiento_OutputModel\\Out91_ActinoalloteichusSpAHMUCJ021.csv";
 
 ## ============================ Declaración de variables ======================
 

@@ -1,4 +1,4 @@
-#Programa para partir en kmers de Eli, mod por Edna y piratiado por Ali y modificado a mi pipeline :P 07/10/22
+
 library(Biostrings) 
 library(base)
 
