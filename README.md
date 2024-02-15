@@ -7,5 +7,7 @@ DeepEukVirPro is a Deep Learning model  was developed for identifying partial vi
 
 ## Autores
 
-| [<img src="https://png.pngtree.com/png-clipart/20191122/original/pngtree-user-icon-isolated-on-abstract-background-png-image_5192004.jpg" width=115><br><sub>Alida Zárate </sub>](https://github.com/alyzart22) |  [<img src="https://png.pngtree.com/png-clipart/20191122/original/pngtree-user-icon-isolated-on-abstract-background-png-image_5192004.jpg" width=115><br><sub>Lorena Diaz</sub>]([https://github.com/alyzart22]) |  [<img src="https://png.pngtree.com/png-clipart/20191122/original/pngtree-user-icon-isolated-on-abstract-background-png-image_5192004.jpg" width=115><br><sub>Blanca Taboada</sub>](https://github.com/alyzart22) |
+| [<img src="https://png.pngtree.com/png-clipart/20191122/original/pngtree-user-icon-isolated-on-abstract-background-png-image_5192004.jpg" width=115><br><sub>Alida Zárate </sub>](https://github.com/alyzart22) |  
+[<img src="https://png.pngtree.com/png-clipart/20191122/original/pngtree-user-icon-isolated-on-abstract-background-png-image_5192004.jpg" width=115><br><sub>Lorena Diaz</sub>](https://github.com/alyzart22) |  
+[<img src="https://png.pngtree.com/png-clipart/20191122/original/pngtree-user-icon-isolated-on-abstract-background-png-image_5192004.jpg" width=115><br><sub>Blanca Taboada</sub>](https://github.com/alyzart22) |
 | :---: | :---: | :---: |
