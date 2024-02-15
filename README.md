@@ -26,7 +26,10 @@ _Below is an example of how you can instruct your audience on installing and set
    const API_KEY = 'ENTER YOUR API';
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- REFERENCE -->
+## Reference and citation
+If you use DeepEukVirProt plese cite this paper:
+[https://github.com/alyzart22/DeepEukVirProt](https://github.com/alyzart22/DeepEukVirProt)
 
 
 <!-- CONTACT -->
