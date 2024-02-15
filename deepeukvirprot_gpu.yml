@@ -1,4 +1,4 @@
-name: gpu_pc_ibt
+name: deepeukvirprot_gpu
 channels:
   - nvidia
   - conda-forge
@@ -165,4 +165,4 @@ dependencies:
       - wrapt==1.15.0
       - yarl==1.9.2
       - zipp==3.16.2
-prefix: /home/bioinformatics/miniconda3/envs/gpu_pc_ibt
+prefix: /home/bioinformatics/miniconda3/envs/deepeukvirprot_gpu
