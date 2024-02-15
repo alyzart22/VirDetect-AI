@@ -7,4 +7,5 @@ DeepEukVirPro is a Deep Learning model  was developed for identifying partial vi
 
 ## Autores
 
-| [<img src="[https://media.licdn.com/dms/image/C4E03AQHOlcnd7hjYeA/profile-displayphoto-shrink_200_200/0/1564429266896?e=2147483647&v=beta&t=gmkXIPysS7-NlYbkAlhD412s6xgVdGg_L4abfBdSD4E](https://cdn-icons-png.flaticon.com/512/219/219969.png)" width=115><br><sub>Alida Zárate </sub>](https://github.com/alyzart22) |  [<img src="[https://avatars.githubusercontent.com/u/71970858?v=4](https://cdn-icons-png.flaticon.com/512/219/219969.png)" width=115><br><sub>Lorena Diaz</sub>]([https://github.com/alyzart22]) |  [<img src="[https://avatars.githubusercontent.com/u/91544872?v=4](https://cdn-icons-png.flaticon.com/512/219/219969.png)" width=115><br><sub>Blanca Taboada</sub>](https://github.com/alyzart22) |
+| [<img src="https://png.pngtree.com/png-clipart/20191122/original/pngtree-user-icon-isolated-on-abstract-background-png-image_5192004.jpg" width=115><br><sub>Alida Zárate </sub>](https://github.com/alyzart22) |  [<img src="https://avatars.githubusercontent.com/u/71970858?v=4" width=115><br><sub>Lorena Diaz</sub>]([https://github.com/alyzart22]) |  [<img src="https://avatars.githubusercontent.com/u/91544872?v=4" width=115><br><sub>Blanca Taboada</sub>](https://github.com/alyzart22) |
+| :---: | :---: | :---: |
