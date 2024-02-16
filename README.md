@@ -47,14 +47,14 @@ _*Drivers Nvidia should be updated_
    ```sh
    conda activate deepeukvirprot_cpu 
    ```
-## Execute API Consult DeepEukVirProt
+## Execute API consult DeepEukVirProt
 3. In this section you can try with you own metagenomics data
    In this line you can replace the fasta file unknown.fasta for your own fasta.
    Execute this line.
    ```sh
    python3 ./API_deepeukvirprot/api_deepeukvirprot.py ./API_deepeukvirprot/metagenomic_data/unknown/unknown.fasta ./API_deepeukvirprot/model.h5 ./API_deepeukvirprot/ref_api_300_20_980.csv ./API_deepeukvirprot/metagenomic_data/unknown/ 300 40 label_output_ 0.80 0.90 978 979 0 
    ```
-   
+## Output Api consult DeepEukVirProt
  4. The output are the following 6 images and 2 csv report with the predictions by kmers and by sequences.
 
  ![Output image ](https://github.com/alyzart22/DeepEukVirProt/blob/main/img/output_model.jpg)
