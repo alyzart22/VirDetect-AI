@@ -62,7 +62,7 @@ _*Drivers Nvidia should be updated_
 <!-- REFERENCE -->
 ## Reference and citation
 If you use DeepEukVirProt plese cite this paper:
-[https://github.com/alyzart22/DeepEukVirProt](https://github.com/alyzart22/DeepEukVirProt)
+[Doi paper here](https://github.com/alyzart22/DeepEukVirProt)
 
 
 <!-- CONTACT -->
