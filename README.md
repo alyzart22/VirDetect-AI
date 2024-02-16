@@ -47,7 +47,6 @@ _*Drivers Nvidia should be updated_
    ```sh
    conda activate deepeukvirprot_cpu 
    ```
-
 ## Execute API Consult DeepEukVirProt
 3. In this section you can try with you own metagenomics data
    In this line you can replace the fasta file unknown.fasta for ypur own fasta
