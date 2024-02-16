@@ -28,8 +28,8 @@ In this repository are available the necessary data and the environment to run t
    
    ```
 
-## If you have GPU Nvidia GTX or RTX
-_*Drivers Nvidia should be updated_
+## If you have GPU Nvidia GTX or RTX _*Drivers Nvidia should be updated_
+
 2. Create enviroment
    ```sh
    conda env create --file ./API_deepeukvirprot/enviroments/deepeukvirprot_gpu.yml 
