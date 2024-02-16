@@ -56,6 +56,8 @@ _*Drivers Nvidia should be updated_
    
  4. The output are the following
 
+ ![Output image ](https://github.com/alyzart22/DeepEukVirProt/blob/main/img/output_model.jpg)
+
 <!-- REFERENCE -->
 ## Reference and citation
 If you use DeepEukVirProt plese cite this paper:
