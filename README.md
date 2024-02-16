@@ -15,7 +15,7 @@ In this repository are available the necessary data and the environment to run t
 
 <!-- Model Deep Learning architecture-->
 # Architecture of Model Deep Learning
- ![model_image ](https://github.com/alyzart22/DeepEukVirProt/blob/main/img/modelo_300_980.tif)
+ ![model_image ](https://github.com/alyzart22/DeepEukVirProt/blob/main/img/modelo_300_980.jpg)
 
 
 <!-- INSTALL API -->
