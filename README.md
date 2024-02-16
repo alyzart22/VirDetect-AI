@@ -17,7 +17,7 @@ In this repository are available the necessary data and the environment to run t
    
    ```
 
-## If you have GPU 
+## If you have GPU Nvidia GTX or RTX
 2. Create enviroment
    ```sh
    conda env create --file ./API_deepeukvirprot/enviroments/deepeukvirprot_gpu.yml 
