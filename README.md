@@ -26,7 +26,7 @@ In this repository are available the necessary data and the environment to run t
    ```sh
    conda activate deepeukvirprot_gpu 
    ```
-   Copy this line in console ()
+   Execute this line in console 
    ```sh
    export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$CONDA_PREFIX/lib/ 
    ```
@@ -49,6 +49,7 @@ Enter your API in `config.js`
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
+## Execute API Consult DeepEukVirProt
 3. 
 
 <!-- REFERENCE -->
