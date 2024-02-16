@@ -13,6 +13,11 @@ In this repository are available the necessary data and the environment to run t
 [![Activity](https://img.shields.io/github/commit-activity/m/alyzart22/DeepEukVirProt.svg)](https://github.com/DeepEukVirProt/DeepEukVirProt/commits)
 
 
+<!-- Model Deep Learning -->
+# Architecture of Model Deep Learning
+ ![modelimage ](https://github.com/alyzart22/DeepEukVirProt/blob/main/img/model_300_980.tif)
+
+
 <!-- INSTALL API -->
 # Install API consult
 
