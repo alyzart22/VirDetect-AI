@@ -10,6 +10,7 @@ In this repository are available the necessary data and the environment to run t
 
  [![Watchers](https://img.shields.io/github/watchers/alyzart22/DeepEukVirProt.svg)](https://github.com/alyzart22/DeepEukVirProt/watchers)
 [![Stars](https://img.shields.io/github/stars/alyzart22/DeepEukVirProt.svg)](https://github.com/alyzart22/DeepEukVirProt/stargazers)
+[![Activity](https://img.shields.io/github/commit-activity/m/alyzart22/DeepEukVirProt.svg)](https://github.com/DeepEukVirProt/DeepEukVirProt/commits)
 
 
 <!-- INSTALL API -->
