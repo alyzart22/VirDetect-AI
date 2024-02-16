@@ -10,21 +10,46 @@ In this repository are available the necessary data and the environment to run t
 <!-- INSTALL API -->
 # Install API consult
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repository to local (or download manually all repository)
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/alyzart22/DeepEukVirProt.git
+   
    ```
-3. Install NPM packages
+
+## If you have GPU 
+2. Create enviroment
    ```sh
-   npm install
+   conda env create --file ./API_deepeukvirprot/enviroments/deepeukvirprot_gpu.yml 
    ```
-4. Enter your API in `config.js`
+   Activate you enviroment
+   ```sh
+   conda activate deepeukvirprot_gpu 
+   ```
+   Copy this line in console ()
+   ```sh
+   export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$CONDA_PREFIX/lib/ 
+   ```
+   Execute this line to check that the gpu is working 
+   ```sh
+   python -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"
+   ```
+
+## If you don´t have GPU
+2. Create enviroment
+   ```sh
+   conda env create --file ./API_deepeukvirprot/enviroments/deepeukvirprot_cpu.yml 
+   ```
+   Activate you enviroment
+   ```sh
+   conda activate deepeukvirprot_cpu 
+   ```
+
+Enter your API in `config.js`
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
+3. 
 
 <!-- REFERENCE -->
 ## Reference and citation
