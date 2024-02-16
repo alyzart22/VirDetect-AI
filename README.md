@@ -49,7 +49,8 @@ _*Drivers Nvidia should be updated_
    ```
 ## Execute API Consult DeepEukVirProt
 3. In this section you can try with you own metagenomics data
-   In this line you can replace the fasta file unknown.fasta for ypur own fasta
+   In this line you can replace the fasta file unknown.fasta for your own fasta.
+   Execute this line.
    ```sh
    python3 ./API_deepeukvirprot/api_deepeukvirprot.py ./API_deepeukvirprot/metagenomic_data/unknown/unknown.fasta ./API_deepeukvirprot/model.h5 ./API_deepeukvirprot/ref_api_300_20_980.csv ./API_deepeukvirprot/metagenomic_data/unknown/ 300 40 label_output_ 0.80 0.90 978 979 0 
    ```
