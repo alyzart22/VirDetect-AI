@@ -18,6 +18,7 @@ In this repository are available the necessary data and the environment to run t
    ```
 
 ## If you have GPU Nvidia GTX or RTX
+_*Drivers Nvidia should be updated_
 2. Create enviroment
    ```sh
    conda env create --file ./API_deepeukvirprot/enviroments/deepeukvirprot_gpu.yml 
@@ -30,10 +31,12 @@ In this repository are available the necessary data and the environment to run t
    ```sh
    export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$CONDA_PREFIX/lib/ 
    ```
+   
    Execute this line to check that the gpu is working 
    ```sh
    python -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"
    ```
+   Output expected example: `[PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]`
 
 ## If you don´t have GPU
 2. Create enviroment
@@ -45,12 +48,10 @@ In this repository are available the necessary data and the environment to run t
    conda activate deepeukvirprot_cpu 
    ```
 
-Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
 ## Execute API Consult DeepEukVirProt
-3. 
+3. ```py
+   python
+   ```
 
 <!-- REFERENCE -->
 ## Reference and citation
