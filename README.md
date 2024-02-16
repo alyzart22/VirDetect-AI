@@ -5,7 +5,9 @@ In this repository are available the necessary data and the environment to run t
 
    <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
-
+   </p>
+      <p align="left">
+   <img src="https://img.shields.io/github/watchers/:alyzart22/:DeepEukVirProt">
    </p>
 
  [![Watchers](https://img.shields.io/github/watchers/tu-usuario/tu-repositorio.svg)](https://github.com/alyzart22/DeepEukVirProt/watchers)
