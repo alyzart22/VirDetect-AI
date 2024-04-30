@@ -11,11 +11,6 @@ find_kmer_salto<-function(string,k,step){
   return (kmers)
 }
 #--------------------------------------------
-#urlFa="D:/UAEM/BIO/Proyectos_extras/edal/PhANNs_test.fasta"
-#path_id_clase="D:/UAEM/BIO/Proyectos_extras/edal/lista_clases_prueba.csv"
-#pathDestino="D:/PhANNs_test_100_10_kmers.csv"
-#k_mer=50
-#v_step=20
 
 args <- commandArgs(TRUE)
 urlFa=args[1]
