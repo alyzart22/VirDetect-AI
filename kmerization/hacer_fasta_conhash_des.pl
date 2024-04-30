@@ -1,6 +1,3 @@
-#my $inputids = "/scratch/alida_uaem/cluster/Results5/eucariontes/accesions_euk.csv";
-#my $inputdb = "/scratch/alida_uaem/cluster/Results/all_dup_julio_2.fasta.csv";
-#my $outputfasta = "/scratch/alida_uaem/cluster/Results5/eucariontes/eucariontes.fasta";
 
 my $inputids = $ARGV[0];
 my $inputdb = $ARGV[1];
