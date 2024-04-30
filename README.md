@@ -19,7 +19,7 @@ In this repository are available the necessary data and the environment to run t
 
 <!-- Api consult DeepEukVirProt-->
 # Api consult DeepEukVirProt
- ![model_image ](https://github.com/alyzart22/DeepEukVirProt/blob/main/img/Api_deepeukvirprot.jpg)
+ ![model_image ](https://github.com/alyzart22/DeepEukVirProt/blob/main/img/Api_deepeukvirprot.JPG)
 
 <!-- INSTALL API -->
 # Install API consult
