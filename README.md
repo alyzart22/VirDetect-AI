@@ -76,7 +76,7 @@ In this repository are available the necessary data and the environment to run t
    python3 ./API_deepeukvirprot/api_deepeukvirprot.py ./API_deepeukvirprot/metagenomic_data/unknown/unknown.fasta ./API_deepeukvirprot/model.h5 ./API_deepeukvirprot/ref_api_300_20_980.csv ./API_deepeukvirprot/metagenomic_data/unknown/ 300 40 label_output_ 0.80 0.90 978 979 0 
    ```
 ### Output Api consult DeepEukVirProt
- 4. The output are the following 6 images and 2 csv report with the predictions by kmers and by sequences.
+ 4. The output are the following 6 pie graphs and 3 files csv, report with the predictions by kmers, prediction by sequences and sequences unknown.
 
  ![Output image ](https://github.com/alyzart22/DeepEukVirProt/blob/main/img/fig_s1.jpg)
 
