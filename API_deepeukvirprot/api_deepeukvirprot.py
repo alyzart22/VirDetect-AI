@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+#Version update Mayo 7 2024
 #Programa Ali Zarate feb 2023 - Nov2023: Programa que es la api que voy a usar para hacer consultas a mis modelos y genera un reporte en csv y una imagen de propabilidades de clase
 import os
 import sys #para pasar parametro
