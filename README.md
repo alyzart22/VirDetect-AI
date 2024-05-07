@@ -71,7 +71,7 @@ In this repository are available the necessary data and the environment to run t
 ## Output Api consult DeepEukVirProt
  4. The output are the following 6 images and 2 csv report with the predictions by kmers and by sequences.
 
- ![Output image ](https://github.com/alyzart22/DeepEukVirProt/blob/main/img/output_model.jpg)
+ ![Output image ](https://github.com/alyzart22/DeepEukVirProt/blob/main/img/fig_s1.jpg)
 
 <!-- REFERENCE -->
 ## Reference and citation
