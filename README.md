@@ -17,12 +17,19 @@ In this repository are available the necessary data and the environment to run t
 # Architecture of Model Deep Learning
  ![model_image ](https://github.com/alyzart22/DeepEukVirProt/blob/main/img/modelo_300_980.jpg)
 
+
 <!-- Api consult DeepEukVirProt-->
 # Api consult DeepEukVirProt
  ![model_image ](https://github.com/alyzart22/DeepEukVirProt/blob/main/img/Api_deepeukvirprot.JPG)
 
+<!-- Options-->
+# There are two options to test the DeepEukVirProt tool, through a google colab notebook or locally by installing a predefined environment
+<!-- Execute notebook -->
+## Option 1 - Execute Notebook
+1. Download the carpet Notebook_deepeukvirprot and execute on Google colab (GPU)  or jupiter, the notebook Notebook_api_DeepEukVirProt.ipynb
+
 <!-- INSTALL API -->
-# Install API consult
+## Option 2 -Install API consult
 
 
 1. Clone the repository to local (or download manually all repository)
@@ -31,7 +38,7 @@ In this repository are available the necessary data and the environment to run t
    
    ```
 
-## If you have GPU Nvidia GTX or RTX _*Drivers Nvidia should be updated_
+### If you have GPU Nvidia GTX or RTX _*Drivers Nvidia should be updated_
 
 2. Create enviroment
    ```sh
@@ -52,7 +59,7 @@ In this repository are available the necessary data and the environment to run t
    ```
    Output expected example: `[PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]`
 
-## If you don´t have GPU
+### If you don´t have GPU
 2. Create enviroment
    ```sh
    conda env create --file ./API_deepeukvirprot/enviroments/deepeukvirprot_cpu.yml 
@@ -61,32 +68,32 @@ In this repository are available the necessary data and the environment to run t
    ```sh
    conda activate deepeukvirprot_cpu 
    ```
-## Execute API consult DeepEukVirProt
+### Execute API consult DeepEukVirProt
 3. In this section you can try with you own metagenomics data
    In this line you can replace the fasta file unknown.fasta for your own fasta.
    Execute this line.
    ```sh
    python3 ./API_deepeukvirprot/api_deepeukvirprot.py ./API_deepeukvirprot/metagenomic_data/unknown/unknown.fasta ./API_deepeukvirprot/model.h5 ./API_deepeukvirprot/ref_api_300_20_980.csv ./API_deepeukvirprot/metagenomic_data/unknown/ 300 40 label_output_ 0.80 0.90 978 979 0 
    ```
-## Output Api consult DeepEukVirProt
+### Output Api consult DeepEukVirProt
  4. The output are the following 6 images and 2 csv report with the predictions by kmers and by sequences.
 
  ![Output image ](https://github.com/alyzart22/DeepEukVirProt/blob/main/img/fig_s1.jpg)
 
 <!-- REFERENCE -->
-## Reference and citation
+# Reference and citation
 If you use DeepEukVirProt plese cite this paper:
 [Doi paper here](https://github.com/alyzart22/DeepEukVirProt)
 
 
 <!-- CONTACT -->
-## Contact
+# Contact
 
 Ali Zárate - alida.zarate@ibt.unam.mx
 
 Project Link: [https://github.com/alyzart22/DeepEukVirProt](https://github.com/alyzart22/DeepEukVirProt)
 
-## Autors
+# Autors
 
-| [<img src="https://png.pngtree.com/png-clipart/20191122/original/pngtree-user-icon-isolated-on-abstract-background-png-image_5192004.jpg" width=115><br><sub>Alida Zárate </sub>](https://github.com/alyzart22) | [<img src="https://png.pngtree.com/png-clipart/20191122/original/pngtree-user-icon-isolated-on-abstract-background-png-image_5192004.jpg" width=115><br><sub>Lorena Diaz</sub>](https://github.com/alyzart22) | [<img src="https://png.pngtree.com/png-clipart/20191122/original/pngtree-user-icon-isolated-on-abstract-background-png-image_5192004.jpg" width=115><br><sub>Blanca Taboada</sub>](https://github.com/alyzart22) |
+| [<img src="https://png.pngtree.com/png-clipart/20191122/original/pngtree-user-icon-isolated-on-abstract-background-png-image_5192004.jpg" width=115><br><sub>Alida Zárate </sub>](https://github.com/alyzart22) | [<img src="https://png.pngtree.com/png-clipart/20191122/original/pngtree-user-icon-isolated-on-abstract-background-png-image_5192004.jpg" width=115><br><sub>Blanca Taboada</sub>](https://github.com/alyzart22) | [<img src="https://png.pngtree.com/png-clipart/20191122/original/pngtree-user-icon-isolated-on-abstract-background-png-image_5192004.jpg" width=115><br><sub>Lorena Diaz</sub>](https://github.com/alyzart22) |
 | :---: | :---: | :---: |
