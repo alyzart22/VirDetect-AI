@@ -26,11 +26,16 @@ In this repository are available the necessary data and the environment to run t
 # There are two options to test the DeepEukVirProt tool, through a google colab notebook or locally by installing a predefined environment
 <!-- Execute notebook -->
 ## Option 1 - Execute Notebook
-1. Clone the repository to local (or download manually all repository) and inside the forder named Notebook_deepeukvirprot and execute on Google colab (GPU)  or jupiter, the notebook Notebook_api_DeepEukVirProt.ipynb
+1. Clone the repository to local (or download manually all repository) 
    ```sh
    git clone https://github.com/alyzart22/DeepEukVirProt.git
-   
    ```
+
+2.- Download from this link the model and colocate inside the folder Notebook_deepeukvirprot 
+   ```sh
+   [git clone https://github.com/alyzart22/DeepEukVirProt.git](https://drive.google.com/file/d/1jVLshzOz3bOPWuIbaoNSAV4yRl4JBAOD/view?usp=sharing)
+   ```
+3.-Inside the folder named Notebook_deepeukvirprot execute on Google colab (GPU)  or jupiter, the notebook Notebook_api_DeepEukVirProt.ipynb
 
 <!-- INSTALL API -->
 ## Option 2 -Install API consult
@@ -40,6 +45,10 @@ In this repository are available the necessary data and the environment to run t
    ```sh
    git clone https://github.com/alyzart22/DeepEukVirProt.git
    
+   ```
+2.- Download from this link the model and colocate inside the folder API_deepeukvirprot
+   ```sh
+   [git clone https://github.com/alyzart22/DeepEukVirProt.git](https://drive.google.com/file/d/1jVLshzOz3bOPWuIbaoNSAV4yRl4JBAOD/view?usp=sharing)
    ```
 
 ### If you have GPU Nvidia GTX or RTX _*Drivers Nvidia should be updated_
