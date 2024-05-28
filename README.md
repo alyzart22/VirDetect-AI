@@ -59,7 +59,7 @@ https://drive.google.com/file/d/1jVLshzOz3bOPWuIbaoNSAV4yRl4JBAOD/view?usp=shari
    ```
    Activate you enviroment
    ```sh
-   conda activate deepeukvirprot_gpu 
+   conda activate virdetect-ai_gpu 
    ```
    Execute this line in console 
    ```sh
