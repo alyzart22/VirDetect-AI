@@ -18,12 +18,12 @@ In this repository are available the necessary data and the environment to run t
  ![model_image ](https://github.com/alyzart22/VirDetect-AI/blob/main/img/modelo_300_980.jpg)
 
 
-<!-- Api consult DeepEukVirProt-->
-# Api consult DeepEukVirProt
+<!-- Api consult VirDetect-AI-->
+# Api consult VirDetect-AI
  ![model_image ](https://github.com/alyzart22/VirDetect-AI/blob/main/img/Api_deepeukvirprot.JPG)
 
 <!-- Options-->
-# There are two options to test the DeepEukVirProt tool, through a google colab notebook or locally by installing a predefined environment
+# There are two options to test the VirDetect-AI tool, through a google colab notebook or locally by installing a predefined environment
 <!-- Execute notebook -->
 ## Option 1 - Execute Notebook
 1. Clone the repository to local (or download manually all repository) 
