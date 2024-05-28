@@ -1,4 +1,4 @@
-<em> <h1 align="center"> DeepEukVirProt </h1></em>
+<em> <h1 align="center"> VirDetect-AI </h1></em>
 
 This repository contains a Deep Learning model for identifying partial virus protein sequences in metagenomic data.
 In this repository are available the necessary data and the environment to run the query application.
@@ -8,19 +8,19 @@ In this repository are available the necessary data and the environment to run t
    </p>
 
 
- [![Watchers](https://img.shields.io/github/watchers/alyzart22/DeepEukVirProt.svg)](https://github.com/alyzart22/DeepEukVirProt/watchers)
-[![Stars](https://img.shields.io/github/stars/alyzart22/DeepEukVirProt.svg)](https://github.com/alyzart22/DeepEukVirProt/stargazers)
-[![Activity](https://img.shields.io/github/commit-activity/m/alyzart22/DeepEukVirProt.svg)](https://github.com/DeepEukVirProt/DeepEukVirProt/commits)
+ [![Watchers](https://img.shields.io/github/watchers/alyzart22/DeepEukVirProt.svg)](https://github.com/alyzart22/VirDetect-AI/watchers)
+[![Stars](https://img.shields.io/github/stars/alyzart22/DeepEukVirProt.svg)](https://github.com/alyzart22/VirDetect-AI/stargazers)
+[![Activity](https://img.shields.io/github/commit-activity/m/alyzart22/DeepEukVirProt.svg)](https://github.com/VirDetect-AI/VirDetect-AI/commits)
 
 
 <!-- Model Deep Learning architecture-->
 # Architecture of Model Deep Learning
- ![model_image ](https://github.com/alyzart22/DeepEukVirProt/blob/main/img/modelo_300_980.jpg)
+ ![model_image ](https://github.com/alyzart22/VirDetect-AI/blob/main/img/modelo_300_980.jpg)
 
 
 <!-- Api consult DeepEukVirProt-->
 # Api consult DeepEukVirProt
- ![model_image ](https://github.com/alyzart22/DeepEukVirProt/blob/main/img/Api_deepeukvirprot.JPG)
+ ![model_image ](https://github.com/alyzart22/VirDetect-AI/blob/main/img/Api_deepeukvirprot.JPG)
 
 <!-- Options-->
 # There are two options to test the DeepEukVirProt tool, through a google colab notebook or locally by installing a predefined environment
@@ -28,14 +28,14 @@ In this repository are available the necessary data and the environment to run t
 ## Option 1 - Execute Notebook
 1. Clone the repository to local (or download manually all repository) 
    ```sh
-   git clone https://github.com/alyzart22/DeepEukVirProt.git
+   git clone https://github.com/alyzart22/VirDetect-AI.git
    ```
 
 2.- Download from this link the model and colocate inside the folder Notebook_deepeukvirprot 
    ```sh
 https://drive.google.com/file/d/1jVLshzOz3bOPWuIbaoNSAV4yRl4JBAOD/view?usp=sharing
    ```
-3.-Inside the folder named Notebook_deepeukvirprot execute on Google colab (GPU)  or jupiter, the notebook Notebook_api_DeepEukVirProt.ipynb
+3.-Inside the folder named Notebook_VirDetect-AI execute on Google colab (GPU)  or jupiter, the notebook Notebook_api_VirDetect-AI.ipynb
 
 <!-- INSTALL API -->
 ## Option 2 -Install API consult
@@ -43,10 +43,10 @@ https://drive.google.com/file/d/1jVLshzOz3bOPWuIbaoNSAV4yRl4JBAOD/view?usp=shari
 
 1. Clone the repository to local (or download manually all repository)
    ```sh
-   git clone https://github.com/alyzart22/DeepEukVirProt.git
+   git clone https://github.com/alyzart22/VirDetect-AI.git
    
    ```
-2.- Download from this link the model and colocate inside the folder API_deepeukvirprot
+2.- Download from this link the model and colocate inside the folder API_VirDetect-AI
    ```sh
 https://drive.google.com/file/d/1jVLshzOz3bOPWuIbaoNSAV4yRl4JBAOD/view?usp=sharing
    ```
@@ -55,7 +55,7 @@ https://drive.google.com/file/d/1jVLshzOz3bOPWuIbaoNSAV4yRl4JBAOD/view?usp=shari
 
 2. Create enviroment
    ```sh
-   conda env create --file ./API_deepeukvirprot/enviroments/deepeukvirprot_gpu.yml 
+   conda env create --file ./API_VirDetect-AI/enviroments/virdetect-ai_gpu.yml 
    ```
    Activate you enviroment
    ```sh
@@ -75,28 +75,28 @@ https://drive.google.com/file/d/1jVLshzOz3bOPWuIbaoNSAV4yRl4JBAOD/view?usp=shari
 ### If you don´t have GPU
 2. Create enviroment
    ```sh
-   conda env create --file ./API_deepeukvirprot/enviroments/deepeukvirprot_cpu.yml 
+   conda env create --file ./VirDetect-AI/enviroments/virdetect-ai_cpu.yml 
    ```
    Activate you enviroment
    ```sh
-   conda activate deepeukvirprot_cpu 
+   conda activate virdetect-ai_cpu 
    ```
-### Execute API consult DeepEukVirProt
+### Execute API consult VirDetect-AI
 3. In this section you can try with you own metagenomics data
    In this line you can replace the fasta file unknown.fasta for your own fasta.
    Execute this line.
    ```sh
-   python3 ./API_deepeukvirprot/api_deepeukvirprot.py ./API_deepeukvirprot/metagenomic_data/unknown/unknown.fasta ./API_deepeukvirprot/model.h5 ./API_deepeukvirprot/ref_api_300_20_980.csv ./API_deepeukvirprot/metagenomic_data/unknown/ 300 40 label_output_ 0.80 0.90 978 979 0 
+   python3 ./VirDetect-AI/api_virdetect-ai.py ./API_VirDetect-AI/metagenomic_data/unknown/unknown.fasta ./API_VirDetect-AI/model.h5 ./API_virdetect-ai/ref_api_300_20_980.csv ./API_deepeukvirprot/metagenomic_data/unknown/ 300 40 label_output_ 0.80 0.90 978 979 0 
    ```
-### Output Api consult DeepEukVirProt
+### Output Api consult VirDetect-AI
  4. The output are the following 6 pie graphs and 3 files csv, report with the predictions by kmers, prediction by sequences and sequences unknown.
 
- ![Output image ](https://github.com/alyzart22/DeepEukVirProt/blob/main/img/fig_s1.jpg)
+ ![Output image ](https://github.com/alyzart22/VirDetect-AI/blob/main/img/fig_s1.jpg)
 
 <!-- REFERENCE -->
 # Reference and citation
-If you use DeepEukVirProt plese cite this paper:
-[Doi paper here](https://github.com/alyzart22/DeepEukVirProt)
+If you use VirDetect-AI plese cite this paper:
+[Doi paper here](https://github.com/alyzart22/VirDetect-AI)
 
 
 <!-- CONTACT -->
@@ -104,7 +104,7 @@ If you use DeepEukVirProt plese cite this paper:
 
 Ali Zárate - alida.zarate@ibt.unam.mx
 
-Project Link: [https://github.com/alyzart22/DeepEukVirProt](https://github.com/alyzart22/DeepEukVirProt)
+Project Link: [https://github.com/alyzart22/VirDetect-AI](https://github.com/alyzart22/VirDetect-AI)
 
 # Autors
 
