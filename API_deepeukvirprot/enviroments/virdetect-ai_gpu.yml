@@ -1,4 +1,4 @@
-name: deepeukvirprot_gpu
+name: virdetect-ai_gpu
 channels:
   - nvidia
   - conda-forge
@@ -165,4 +165,4 @@ dependencies:
       - wrapt==1.15.0
       - yarl==1.9.2
       - zipp==3.16.2
-prefix: /home/bioinformatics/miniconda3/envs/deepeukvirprot_gpu
+prefix: /home/bioinformatics/miniconda3/envs/virdetect-ai_gpu
