@@ -20,7 +20,7 @@ In this repository are available the necessary data and the environment to run t
 
 <!-- Api consult VirDetect-AI-->
 # Api consult VirDetect-AI
- ![model_image ](https://github.com/alyzart22/VirDetect-AI/blob/main/img/virdetect-ai.JPG)
+ ![model_image ](https://github.com/alyzart22/VirDetect-AI/blob/main/img/Api_virdetect-ai.JPG)
 
 <!-- Options-->
 # There are two options to test the VirDetect-AI tool, through a google colab notebook or locally by installing a predefined environment
