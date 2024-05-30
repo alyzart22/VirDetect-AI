@@ -107,7 +107,7 @@ Ali Zárate - alida.zarate@ibt.unam.mx
 Project Link: [https://github.com/alyzart22/VirDetect-AI](https://github.com/alyzart22/VirDetect-AI)
 
 # Authors
-[<img alt="alt_text" width="60px" src="img/use_icon.png" />]([https://www.researchgate.net/profile/Alida-Zarate])
 
+ ![Output image ](https://github.com/alyzart22/VirDetect-AI/blob/main/img/use_icon.png)(https://www.researchgate.net/profile/Alida-Zarate)
 | [<img alt="alt_text" width="60px" src="img/use_icon.png" />]([https://www.researchgate.net/profile/Alida-Zarate]) | [<img src="https://png.pngtree.com/png-clipart/20191122/original/pngtree-user-icon-isolated-on-abstract-background-png-image_5192004.jpg" width=115><br><sub>Blanca Taboada</sub>]([https://github.com/alyzart22](https://www.researchgate.net/profile/Alida-Zarate)) | [<img src="https://png.pngtree.com/png-clipart/20191122/original/pngtree-user-icon-isolated-on-abstract-background-png-image_5192004.jpg" width=115><br><sub>Lorena Diaz</sub>]([https://github.com/alyzart22](https://www.researchgate.net/profile/Alida-Zarate)) |
 | :---: | :---: | :---: |
