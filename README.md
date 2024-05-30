@@ -109,11 +109,7 @@ Project Link: [https://github.com/alyzart22/VirDetect-AI](https://github.com/aly
 # Authors
 
 
-| [![width="40px"](https://github.com/alyzart22/VirDetect-AI/blob/main/img/use_icon.png)](https://www.researchgate.net/profile/Alida-Zarate)|
- [![alt test](https://github.com/alyzart22/VirDetect-AI/blob/main/img/use_icon.png)](https://www.researchgate.net/profile/Blanca-Taboada)|
- [![alt test](https://github.com/alyzart22/VirDetect-AI/blob/main/img/use_icon.png)](https://www.researchgate.net/profile/Lorena-Diaz-Gonzalez)
-
-
-
-| :---: | :---: | :---: |  
-### Alida Zárate   Blanca Taboada   Lorena Diaz  
+ [![width="40px"](https://github.com/alyzart22/VirDetect-AI/blob/main/img/use_icon.png)](https://www.researchgate.net/profile/Alida-Zarate)
+ [![alt test](https://github.com/alyzart22/VirDetect-AI/blob/main/img/use_icon.png)](https://www.researchgate.net/profile/Blanca-Taboada)
+ [![alt test](https://github.com/alyzart22/VirDetect-AI/blob/main/img/use_icon.png)](https://www.researchgate.net/profile/Lorena-Diaz-Gonzalez) 
+### Alida Zárate |  Blanca Taboada  | Lorena Diaz  
