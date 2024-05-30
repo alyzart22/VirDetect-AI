@@ -18,8 +18,8 @@ from tensorflow.keras.utils import to_categorical
 import tensorflow as tf #agrege yo
 from datetime import datetime
 import time
-import dataframe_image as dfi
-import math
+#import dataframe_image as dfi
+#import math
 import random
 
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'  # 0: default, 1: info, 2: warning, 3: error
