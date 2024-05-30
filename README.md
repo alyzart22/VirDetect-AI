@@ -4,7 +4,7 @@ This repository contains a Deep Learning model for identifying partial virus pro
 In this repository are available the necessary data and the environment to run the query application.
 
    <p align="left">
-   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+   <img src="https://img.shields.io/badge/STATUS-PASSED-green">
    </p>
 
 
