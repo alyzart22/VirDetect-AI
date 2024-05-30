@@ -31,7 +31,7 @@ In this repository are available the necessary data and the environment to run t
    git clone https://github.com/alyzart22/VirDetect-AI.git
    ```
 
-2.- Download from this link the model and colocate inside the folder Notebook_deepeukvirprot 
+2.- Download from this link the model and colocate inside the folder Notebook_virdetect-ai 
    ```sh
 https://drive.google.com/file/d/1jVLshzOz3bOPWuIbaoNSAV4yRl4JBAOD/view?usp=sharing
    ```
