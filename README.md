@@ -4,7 +4,7 @@ This repository contains a Deep Learning model for identifying partial virus pro
 In this repository are available the necessary data and the environment to run the query application.
 Download Extra suplementary data of VirDetect-AI 
    ```sh
-https://zenodo.org/records/13328821?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImYyZjY5OTY1LThiYzgtNDljOC1iNGE5LTNiNzJkOTBkOTdjNyIsImRhdGEiOnt9LCJyYW5kb20iOiIxYWEzN2ZiNGIxZjMwNGIwNThiMWNjMWI5ZmI2NDlkYiJ9.c_BgzFRC82uTwVOYXsA6NwnYRaZI2o3gw3XfiQQcjSbHz9Vv5TcTBOFy-YcJmN6BkzLV5GwMKBKUnTTpzoteEQ
+https://zenodo.org/records/13328821
    ```
 
    <p align="left">
