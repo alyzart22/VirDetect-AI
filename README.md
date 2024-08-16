@@ -3,7 +3,7 @@
 This repository contains a Deep Learning model for identifying partial virus protein sequences in metagenomic data.
 In this repository are available the necessary data and the environment to run the query application.
 
-[Download Extra suplementary data of VirDetect-AI --> Zenodo ](https://zenodo.org/records/13328821?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImYyZjY5OTY1LThiYzgtNDljOC1iNGE5LTNiNzJkOTBkOTdjNyIsImRhdGEiOnt9LCJyYW5kb20iOiIxYWEzN2ZiNGIxZjMwNGIwNThiMWNjMWI5ZmI2NDlkYiJ9.c_BgzFRC82uTwVOYXsA6NwnYRaZI2o3gw3XfiQQcjSbHz9Vv5TcTBOFy-YcJmN6BkzLV5GwMKBKUnTTpzoteEQ)
+[Download Extra suplementary data of VirDetect-AI --> Zenodo (https://zenodo.org/doi/10.5281/zenodo.13328820) ](https://zenodo.org/doi/10.5281/zenodo.13328820)
 
    <p align="left">
    <img src="https://img.shields.io/badge/STATUS-PASSED-green">
