@@ -1,0 +1,421 @@
+name	len	score	pvalue
+NC_074642.1 |||Methanoculleus virus L4768|dsDNA|Methanoculleus bourgensis|Methanoculleus virus L4768, complete genome|Germany	37078	0.8545680046081543	0.021187400861092227
+NC_074644.1 |Dolusvirus|Verdandiviridae|Dolusvirus shimokitaense|dsDNA|Asgard group archaeon|MAG: Asgard archaea virus VerdaV1 DNA, complete genome|Japan	19940	0.8858043551445007	0.018845834277513407
+NC_073676.1 |Hollowayvirus||Pseudomonas phage Epa33|dsDNA|Pseudomonas sp.|Pseudomonas phage Epa33, complete genome|	64021	0.4913519620895386	0.06856635697560239
+NC_073459.1 |||Gordonia phage Finkle|dsDNA|Gordonia terrae|Gordonia phage Finkle, complete genome|USA	47895	0.7919778823852539	0.02600271923861319
+NC_073434.1 |Dismasvirus||Microbacterium Phage DirtyBubble|dsDNA|Microbacterium foliorum|Microbacterium Phage DirtyBubble, complete genome|USA	41692	0.9833396077156067	0.00879975828990105
+NC_073439.1 |Dismasvirus||Microbacterium phage IndyLu|dsDNA|Microbacterium foliorum|Microbacterium phage IndyLu, complete genome|USA	41958	0.9730949401855469	0.010197144799456152
+NC_073444.1 |Dismasvirus||Microbacterium phage Avocadoman|dsDNA|Microbacterium foliorum|Microbacterium phage Avocadoman, complete genome|USA	41200	0.9978830814361572	0.004702016768638115
+NC_073325.1 |Kagunavirus||Escherichia phage vB_EcoS_XY1|dsDNA|Escherichia coli|Escherichia phage vB_EcoS_XY1, complete genome|China	45566	0.986592710018158	0.00823325024548682
+NC_073203.1 |Jerseyvirus||Salmonella phage MET_P1_001_43|dsDNA|Salmonella enterica subsp. enterica serovar Enteritidis|Salmonella phage MET_P1_001_43, complete genome|Turkey	43205	0.9665718078613281	0.011424578895686986
+NC_073212.1 |Jerseyvirus||Salmonella phage ZCSE9|dsDNA|Salmonella enterica subsp. enterica serovar Typhi|Salmonella phage ZCSE9, complete genome|Egypt	42689	0.9589855074882507	0.012538711383034973
+NC_073217.1 |Jerseyvirus||Salmonella phage pink|dsDNA|Salmonella enterica|Salmonella phage pink, complete genome|	43203	0.9170547723770142	0.016485384092454113
+NC_073061.1 |Dhillonvirus||Escherichia phage vB_EcoS-101114BS4|dsDNA|Escherichia coli|Escherichia phage vB_EcoS-101114BS4, complete genome|	45251	0.9650547504425049	0.01161341491049173
+NC_073067.1 |Dhillonvirus||Escherichia phage PaulFeyerabend|dsDNA|Escherichia coli K-12|Escherichia phage PaulFeyerabend, complete genome|Switzerland	44550	0.9538781642913818	0.013142986630410152
+NC_073070.1 |Dhillonvirus||Escherichia phage CEC_Kaz_2018|dsDNA|Escherichia coli|Escherichia phage CEC_Kaz_2018, complete genome|Kazakhstan	44283	0.8579366207122803	0.020960797643326534
+NC_073075.1 |Dhillonvirus||Escherichia phage ZCEC10|dsDNA|Escherichia coli O18|Escherichia phage ZCEC10, complete genome|	44776	0.9642999172210693	0.011670065714933153
+NC_073080.1 |Dhillonvirus||Escherichia phage EC115|dsDNA|Escherichia coli|Escherichia phage EC115, complete genome|Denmark	44849	0.9757615327835083	0.009838356371327139
+NC_071152.1 |||Klebsiella phage VLCpiS13a|dsDNA|Klebsiella pneumoniae|Klebsiella phage VLCpiS13a, complete genome|Spain	47956	0.6730214357376099	0.035312334768487046
+NC_071128.1 |Jedunavirus||Klebsiella phage vB_KpnM_15-38_KLPPOU148|dsDNA|Klebsiella pneumoniae|Klebsiella phage vB_KpnM_15-38_KLPPOU148, complete genome|Cote d'Ivoire	49169	0.9954181909561157	0.005986101669310371
+NC_071051.1 |Vansinderenvirus|Aliceevansviridae|Vansinderenvirus SW4|dsDNA|Streptococcus thermophilus|Streptococcus phage SW4, complete genome|	34556	0.9921246767044067	0.006911398141853614
+NC_071074.1 |Brussowvirus|Aliceevansviridae|Brussowvirus P7571|dsDNA|Streptococcus thermophilus|Streptococcus phage P7571, complete genome|	34907	0.9960988163948059	0.005740614850064205
+NC_070654.1 |Moineauvirus|Aliceevansviridae|Moineauvirus mv7A5|dsDNA|Streptococcus thermophilus|Streptococcus phage 7A5, complete genome|Ireland	35936	0.9882791042327881	0.007836694614396858
+NC_070673.1 |Moineauvirus|Aliceevansviridae|Moineauvirus CHPC873|dsDNA|Streptococcus thermophilus|Streptococcus phage CHPC873, complete genome|	38258	0.9893938302993774	0.007572324193670217
+NC_070677.1 |Moineauvirus|Aliceevansviridae|Moineauvirus Sfi19|dsDNA|Streptococcus thermophilus|Streptococcus phage CHPC919, complete genome|	37281	0.998316764831543	0.004399879144950525
+NC_070808.1 |Beenievirus||Beenievirus dolores|dsDNA|Gordonia terrae|Gordonia phage Dolores, complete genome|USA	47336	0.9395246505737305	0.014804743560691894
+NC_070814.1 |Beenievirus||Beenievirus easley|dsDNA|Gordonia terrae|Gordonia phage Easley, complete genome|USA	46717	0.9060544967651367	0.01725961175315356
+NC_070817.1 |Howevirus||Howevirus howe|dsDNA|Gordonia terrae|Gordonia phage Howe, complete genome|USA	53182	0.7931876182556152	0.025889417629730342
+NC_070823.1 |||Pseudoalteromonas phage vB_PspS-H40/1|dsDNA|Pseudoalteromonas sp.|Pseudoalteromonas phage vB_PspS-H40/1, complete genome|Germany	45306	0.8721562027931213	0.01994108316338092
+NC_070824.1 |||Pseudoalteromonas phage C7|dsDNA|Pseudoalteromonas atlantica|Pseudoalteromonas phage C7, complete genome|China	42261	0.8211836218833923	0.023604501850592947
+NC_070828.1 |Dubuvirus||Dubuvirus dubu|dsDNA|Streptomyces platensis|Streptomyces phage Dubu, complete genome|USA	39535	0.9999998211860657	0.00026437042072664096
+NC_070833.1 |Hestiavirus||Hestiavirus hestia|dsDNA|Arthrobacter globiformis|Arthrobacter phage Hestia, complete genome|USA	51476	0.9391460418701172	0.014899161568094267
+NC_070837.1 |Fajavirus||Fajavirus faja|dsDNA|Arthrobacter globiformis|Arthrobacter phage Faja, complete genome|USA	52490	0.8427470922470093	0.022018279326233098
+NC_070861.1 |Cbunavirus|Schitoviridae|Cbunavirus Kc283|dsDNA|Kosakonia cowanii|Kosakonia phage Kc283, complete genome|Czech Republic	76232	0.9999386072158813	0.0013029685021527305
+NC_070865.1 |Litunavirus|Schitoviridae|Litunavirus Pae575p3|dsDNA|Pseudomonas sp.|Pseudomonas phage vB_Pae575P-3, complete genome|	72728	0.9951528906822205	0.006023868872271319
+NC_070877.1 |Quivirus||Quivirus qui|dsDNA|Arthrobacter globiformis|Arthrobacter phage Qui, complete genome|USA	113685	0.9520364999771118	0.013388473449656319
+NC_070907.1 |Peduovirus|Peduoviridae|Peduovirus P37|dsDNA|Yersinia pestis EV76-CN|Yersinia phage P37, complete genome|China	33007	0.6071805357933044	0.04148727245260216
+NC_070937.1 |Nanhuvirus|Straboviridae|Nanhuvirus LPCS28|dsDNA|Cronobacter sakazakii|Cronobacter phage LPCS28, complete genome|China	182723	0.9562963247299194	0.012840849006722561
+NC_070946.1 |Mudcatvirus||Mudcatvirus dynamite|dsDNA|Arthrobacter sp. ATCC 21022|Arthrobacter phage Dynamite, complete genome|USA	57846	0.9877671599388123	0.007874461817357806
+NC_070981.1 |Suseptimavirus||Suseptimavirus EK010|dsDNA|Escherichia coli|Escherichia phage EK010 DNA, complete sequence|China	78078	0.9999249577522278	0.0014540373139965254
+NC_070991.1 |Kuravirus||Kuravirus WFI101126|dsDNA|Escherichia coli|Escherichia phage vB_EcoP_WFI101126, complete genome|Germany	77307	0.9989189505577087	0.0037389530931339226
+NC_070993.1 |Kuravirus||Kuravirus IMEP8|dsDNA|Escherichia coli|Escherichia phage vB_EcoP_IMEP8, complete genome|China	75809	0.999971330165863	0.0010008308784651408
+NC_071006.1 |Chidieberevirus||Chidieberevirus chisanakitsune|dsDNA|Gordonia rubripertincta|Gordonia phage ChisanaKitsune, complete genome|USA	88657	0.9999740123748779	0.0008875292695822947
+NC_071009.1 |Teetrevirus|Autographiviridae|Teetrevirus RPN15|dsDNA|Salmonella enterica|Salmonella phage vB_SAg-RPN15, complete genome|Thailand	38505	1.0	0.0
+NC_071030.1 |Yangvirus||Yangvirus kaylissa|dsDNA|Arthrobacter globiformis|Arthrobacter phage Kaylissa, complete genome|USA	44124	0.9920560121536255	0.006911398141853614
+NC_069147.1 |||Salmonella phage GRNsp27|dsDNA|Salmonella enterica|Salmonella phage GRNsp27, complete genome|	41187	0.965051531791687	0.01161341491049173
+NC_062744.1 |Callevirus|Pervagoviridae|Callevirus Calle|dsDNA|Cellulophaga sp. HaHa_2_95|Cellulophaga phage Calle_1, complete genome|	72979	0.9972405433654785	0.005098572399728076
+NC_062762.1 |Dpdavirus|Haloferuviridae|Dpdavirus HRTV29|dsDNA|Halorubrum sp.|Halorubrum virus HRTV-29, complete genome|Thailand	36603	0.9894411563873291	0.007553440592189742
+OP913462.1 |Kayvirus|Herelleviridae|Staphylococcus virus vB_SurM-PSU2|dsDNA|Staphylococcus ureilyticus|Staphylococcus virus vB_SurM-PSU2, complete genome|South Korea	142537	1.0	0.0
+OL944021.1 |Jerseyvirus||Salmonella phage PhiSEP1|dsDNA|Salmonella enterica|Salmonella phage PhiSEP1, complete genome|South Korea	42730	0.9704038500785828	0.010725885640909434
+OY978816.1 |Berlinvirus|Autographiviridae|Klebsiella phage vB_Kpn_K12P1.1|dsDNA|Klebsiella|Klebsiella phage vB_Kpn_K12P1.1 genome assembly, chromosome: K12P1.1_assembly|Spain	39770	1.0	0.0
+OY979398.1 ||Autographiviridae|Klebsiella phage vB_Kpn_K22PH164C1|dsDNA|Klebsiella|Klebsiella phage vB_Kpn_K22PH164C1 genome assembly, chromosome: K22PH164C1_assembly|Spain	45253	0.9999971985816956	0.0005098572399728076
+OR424386.1 |Tlsvirus|Drexlerviridae|Escherichia phage vB-Eco-KMB25|dsDNA|Escherichia coli|Escherichia phage vB-Eco-KMB25, complete genome|Slovakia	50475	0.999797523021698	0.0020205453584107563
+OR729839.1 ||Autographiviridae|Stenotrophomonas phage StenM_174|dsDNA|Stenotrophomonas maltophilia|Stenotrophomonas phage StenM_174, complete genome|Russia	42956	0.9999951720237732	0.0005665080444142307
+OR791690.1 |Carltongylesvirus|Chaseviridae|Escherichia phage vB_EcoM_JL1|dsDNA|Escherichia coli|Escherichia phage Ecolipha-JLYS-2023, complete genome|China	55571	0.9999962449073792	0.0005287408414532819
+OR420753.1 |Stopavirus|Autographiviridae|Pelagibacter phage HTVC041P|dsDNA|Candidatus Pelagibacter|Pelagibacter phage HTVC041P, complete genome|	38171	1.0	0.0
+OR420929.1 |Salasvirus|Salasmaviridae|Salasvirus phi29|dsDNA|Bacillus|Bacillus phage phi29 isolate SZ_D DNA polymerase gene, complete cds|China	1752	0.9993610382080078	0.0030402598383563713
+OR526489.1 |Chivirus|Casjensviridae|Salmonella phage STP-3|dsDNA|Salmonella enterica subsp. enterica serovar Typhimurium|Salmonella phage STP-3, complete genome|South Korea	60850	0.9988105893135071	0.003871138303497243
+OY757088.1 |Drulisvirus|Autographiviridae|Klebsiella phage vB_Kpl_K72PH164C2|dsDNA|Klebsiella|Klebsiella phage vB_Kpl_K72PH164C2 genome assembly, chromosome: K72PH164C2_assembly|Spain	42982	0.99640953540802	0.005570662436739935
+OQ383772.1 |||Caudoviricetes sp.|dsDNA|Sus scrofa|MAG: Caudoviricetes sp. isolate PF180-con-MyoV10 terminase large subunit gene, complete cds|China	1278	1.0	0.0
+OQ383781.1 |||Crassvirales sp.|dsDNA|Sus scrofa|MAG: Crassvirales sp. isolate PF78-con-PodoV2 terminase large subunit gene, complete cds|China	2301	0.9999450445175171	0.0011896668932698845
+OQ383789.1 |||Caudoviricetes sp.|dsDNA|Sus scrofa|MAG: Caudoviricetes sp. isolate PF177-con-PodoV10 terminase large subunit gene, complete cds|China	1500	1.0	0.0
+OQ383810.1 |||Caudoviricetes sp.|dsDNA|Sus scrofa|MAG: Caudoviricetes sp. isolate PF98-con-SiphV16 terminase large subunit gene, complete cds|China	1470	0.08658188581466675	0.19841000075534407
+OQ383813.1 |||Caudoviricetes sp.|dsDNA|Sus scrofa|MAG: Caudoviricetes sp. isolate PF101-con-SiphV19 terminase large subunit gene, complete cds|China	1527	1.0	0.0
+OQ383816.1 |||Caudoviricetes sp.|dsDNA|Sus scrofa|MAG: Caudoviricetes sp. isolate PF171-con-SiphV22 terminase large subunit gene, complete cds|China	1872	0.6915371417999268	0.03383941385301004
+OP380595.1 |Tulanevirus|Straboviridae|Aeromonas phage avDM3|dsDNA|Aeromonas hydrophila|Aeromonas phage avDM3, complete genome|Canada	159712	0.8144339919090271	0.024171009895007176
+OR180308.1 |Obolenskvirus||Acinetobacter phage P711|dsDNA|Acinetobacter baumannii|Acinetobacter phage P711, complete genome|South Korea	44580	0.9800313711166382	0.009252964725432435
+OR180310.1 |Obolenskvirus||Acinetobacter phage A832.1|dsDNA|Acinetobacter baumannii|Acinetobacter phage A832.1, complete genome|South Korea	44699	0.9819408059120178	0.009007477906186268
+OR613466.1 |Gillianvirus||Microbacterium phage CandC|dsDNA|Microbacterium foliorum|Microbacterium phage CandC, complete genome|USA	62344	0.9897255897521973	0.007477906186267845
+OR613479.1 |Adaiavirus||Arthrobacter phage MooKitty|dsDNA|Paeniglutamicibacter sulfureus|Arthrobacter phage MooKitty, complete genome|USA	15972	0.9975608587265015	0.004966387189364756
+OQ817834.1 |Steinhofvirus||Achromobacter phage emuu_LB7|dsDNA|Achromobacter sp.|Achromobacter phage emuu_LB7, complete genome|USA	46012	0.42835426330566406	0.08960268902485082
+OQ817844.1 |Steinhofvirus||Achromobacter phage SE2|dsDNA|Achromobacter sp.|Achromobacter phage SE2, complete genome|USA	45648	0.6796556115150452	0.03485912833295566
+OR348818.1 |||Acinetobacter phage Scuro|dsDNA|Acinetobacter baumannii|Acinetobacter phage Scuro, complete genome|	42509	0.7320031523704529	0.030402598383563715
+OR521073.1 |Neferthenavirus||Microbacterium phage Jemerald|dsDNA|Microbacterium foliorum|Microbacterium phage Jemerald, complete genome|USA	41099	0.9947603940963745	0.00615605408263464
+OR521079.1 |Ilzatvirus||Microbacterium phage MrWorldwide|dsDNA|Microbacterium foliorum|Microbacterium phage MrWorldwide, complete genome|USA	41810	0.998180627822876	0.004456529949391948
+OR521086.1 |Kostyavirus||Mycobacterium phage Highbury|dsDNA|Mycolicibacterium smegmatis MC2 155|Mycobacterium phage Highbury, complete genome|USA	73415	0.9967539310455322	0.00541959362489614
+OR521087.1 |Corndogvirus||Mycobacterium phage MadKillah|dsDNA|Mycolicibacterium smegmatis|Mycobacterium phage MadKillah, complete genome|USA	71141	0.8073059320449829	0.024699750736460458
+OR553895.1 |Yangvirus||Arthrobacter phage Nitro|dsDNA|Arthrobacter globiformis|Arthrobacter phage Nitro, complete genome|USA	44379	0.9993753433227539	0.0030402598383563713
+OR553905.1 |||Microbacterium phage Magritte|dsDNA|Microbacterium foliorum|Microbacterium phage Magritte, complete genome|USA	133228	0.9999985694885254	0.0004343228340509102
+OR253904.1 |||Mycobacterium Phage Nergal|dsDNA|Mycolicibacterium smegmatis MC2 155|Mycobacterium Phage Nergal, complete genome|USA	55792	0.9964529871940613	0.005532895233778986
+OR253907.1 |Kojivirus||Microbacterium phage Guetzie|dsDNA|Microbacterium foliorum|Microbacterium phage Guetzie, complete genome|USA	39758	0.9999620914459229	0.0010574816829065639
+OR475256.1 |Kratiovirus||Mycobacterium phage Heftyboy|dsDNA|Mycolicibacterium smegmatis MC2 155|Mycobacterium phage Heftyboy, complete genome|USA	61968	0.9367688894271851	0.014974695974016164
+OR475292.1 |Paopuvirus|Orlajensenviridae|Microbacterium phage Erin|dsDNA|Microbacterium foliorum|Microbacterium phage Erin, complete genome|USA	17360	0.999576985836029	0.002738122214668782
+OQ587939.1 |||Synechococcus phage S-CRES1|dsDNA|Synechococcus sp.|Synechococcus phage S-CRES1, complete genome|China	73709	0.8022264838218689	0.02502077196162852
+OQ831730.1 |Pbunavirus||Pseudomonas phage 109|dsDNA|Pseudomonas aeruginosa|Pseudomonas phage 109, complete genome|	65597	0.8770066499710083	0.019563411133771434
+OR234023.1 |Slopekvirus|Straboviridae|Klebsiella phage KpF2|dsDNA|Klebsiella pneumoniae|Klebsiella phage KpF2, complete genome|Turkey	174940	0.999995768070221	0.0005476244429337563
+OR296322.1 |Przondovirus|Autographiviridae|Klebsiella phage H5|dsDNA|Klebsiella pneumoniae|Klebsiella phage H5, complete genome|China	39477	1.0	0.0
+OY725603.1 |||Bacteroides phage p00|dsDNA|Bacteroides|Bacteroides phage p00 genome assembly, chromosome: 1|Australia	43637	0.4255481958389282	0.09039580028703074
+OR327750.1 |Tequatrovirus|Straboviridae|Escherichia phage KK4|dsDNA|Escherichia coli|Escherichia phage KK4, complete genome|Turkey	167690	0.907008171081543	0.01720296094871214
+OQ995439.1 |Camvirus||Streptomyces phage Dexers|dsDNA|Streptomyces bicolor|Streptomyces phage Dexers, complete genome|USA	48907	1.0	0.0
+ON968456.1 |||Pseudanabaena phage Pan5|dsDNA|Pseudanabaena sp.|Pseudanabaena phage Pan5, complete genome|China	46546	0.47319716215133667	0.07642193519147972
+OR159667.1 |Cheoctovirus||Mycobacterium phage ShroomBoi|dsDNA|Mycolicibacterium smegmatis MC2 155|Mycobacterium phage ShroomBoi, complete genome|USA	58221	0.9034227132797241	0.017486214970919255
+OR231918.1 |Jiaodavirus|Straboviridae|Klebsiella phage pzk-kv19|dsDNA|Klebsiella variicola|Klebsiella phage pzk-kv19, complete genome|China	167127	0.946407675743103	0.014068283102953395
+OP131587.1 ||Peduoviridae|Acidovorax phage Alfacinha3|dsDNA|Paracidovorax valerianellae|Acidovorax phage Alfacinha3, complete genome|Belgium	40526	0.1674441546201706	0.15803686079008988
+OQ291054.1 |Zindervirus|Autographiviridae|Salmonella phage Kenya-K31|dsDNA|Salmonella enterica|UNVERIFIED: Salmonella phage Kenya-K31, complete genome|Kenya	44269	1.0	0.0
+OQ291068.1 |Jerseyvirus||Salmonella phage Kenya-K55|dsDNA|Salmonella enterica|UNVERIFIED: Salmonella phage Kenya-K55, complete genome|Kenya	43066	0.9931920766830444	0.006703678525568396
+OQ291069.1 |Jerseyvirus||Salmonella phage Kenya-K57|dsDNA|Salmonella enterica|UNVERIFIED: Salmonella phage Kenya-K57, complete genome|Kenya	43066	0.9931920766830444	0.006703678525568396
+OQ291071.1 |Jerseyvirus||Salmonella phage Kenya-K60|dsDNA|Salmonella enterica|UNVERIFIED: Salmonella phage Kenya-K60, complete genome|Kenya	43066	0.9932087063789368	0.006703678525568396
+OR050820.1 |Przondovirus|Autographiviridae|Klebsiella phage HZJ31|dsDNA|Klebsiella pneumoniae|Klebsiella phage HZJ31, complete genome|China	40624	0.9999942183494568	0.0005665080444142307
+OR138016.1 |Slopekvirus|Straboviridae|Klebsiella phage R2_1|dsDNA|Klebsiella pneumoniae|Klebsiella phage R2_1, partial genome|	178906	0.9999579191207886	0.0010763652843870384
+OQ790161.1 |||Xanthomonas phage RTH11|dsDNA|Xanthomonas sp.|Xanthomonas phage RTH11, complete genome|	312199	0.9392802715301514	0.014880277966613793
+OQ860965.1 |Kayfunavirus|Autographiviridae|Salmonella phage ST63|dsDNA|Salmonella enterica subsp. enterica serovar Typhi|Salmonella phage ST63, partial genome|Nepal	39134	1.0	0.0
+OQ860976.1 |Kayfunavirus|Autographiviridae|Salmonella phage ST35|dsDNA|Salmonella enterica subsp. enterica serovar Typhi|Salmonella phage ST35, partial genome|Nepal	38880	1.0	0.0
+OQ860987.1 |Kayfunavirus|Autographiviridae|Salmonella phage ST1_da Silva-2023|dsDNA|Salmonella enterica subsp. enterica serovar Typhi|Salmonella phage ST1_da Silva-2023, partial genome|Nepal	38461	1.0	0.0
+OQ921345.1 |Spbetavirus||Bacillus phage SPbetaL5|dsDNA|Bacillus subtilis BEST7003|Bacillus phage SPbetaL5, complete genome|	126976	0.8772739171981812	0.019563411133771434
+BK061475.1 |Citexvirus|Peduoviridae|Pseudomonas phage vB_PaeM-D14A|dsDNA|Pseudomonas aeruginosa|TPA_asm: Pseudomonas phage vB_PaeM-D14A, complete genome|	36237	0.17801107466220856	0.15446786011028024
+OQ633473.1 |||Streptococcus phage vB_Sags-UPM1|dsDNA|Streptococcus agalactiae|Streptococcus phage vB_Sags-UPM1|Malaysia	42999	0.9848683476448059	0.008573155072135357
+OQ719603.1 |||Vibrio phage vB_VpaP_1601|dsDNA|Vibrio parahaemolyticus|Vibrio phage vB_VpaP_1601, complete genome|China	78477	0.9874486923217773	0.007968879824760178
+OQ625504.1 |||Cylindrospermopsis phage Cr-LKS4|dsDNA|Cylindrospermopsis raciborskii KLL07|Cylindrospermopsis phage Cr-LKS4, complete genome|Israel	101125	0.9680408239364624	0.011254626482362716
+LC768476.1 |||Klebsiella phage phiKp_14|dsDNA|Klebsiella pneumoniae|Klebsiella phage phiKp_14 DNA, complete genome|Japan	48219	0.978013277053833	0.00953621874763955
+LC768496.1 |Slopekvirus|Straboviridae|Klebsiella phage phiKp_26|dsDNA|Klebsiella pneumoniae|Klebsiella phage phiKp_26 DNA, complete genome|Japan	175967	0.9999926090240479	0.0006231588488556538
+OP918135.1 |||Vibrio phage vB_VviC_ZQ26|dsDNA|Vibrio cyclitrophicus|Vibrio phage vB_VviC_ZQ26, complete genome|China	42982	0.9801561832427979	0.009252964725432435
+OQ709339.1 |||Caudoviricetes sp.|dsDNA|Homo sapiens|MAG: Caudoviricetes sp. isolate k141_8448 genomic sequence|China	1140	0.5025875568389893	0.06023868872271319
+OQ709371.1 |||Caudoviricetes sp.|dsDNA|Homo sapiens|MAG: Caudoviricetes sp. isolate k141_11817 genomic sequence|China	2538	0.9961196780204773	0.00572173124858373
+OQ632216.1 |||Salmonella phage Arash|dsDNA|Salmonella enterica|Salmonella phage Arash, complete genome|Belgium	180819	0.9685850143432617	0.011197975677921293
+OQ709214.1 |Manhattanvirus||Arthrobacter phage ObiToo|dsDNA|Arthrobacter globiformis|Arthrobacter phage ObiToo, complete genome|Canada	43969	0.9999597668647766	0.0010574816829065639
+OQ709219.1 |Anayavirus||Mycobacterium Phage Lunahalos|dsDNA|Mycolicibacterium smegmatis MC2 155|Mycobacterium Phage Lunahalos, complete genome|USA	59708	0.9478592872619629	0.013973865095551024
+OX382579.1 |||uncultured Caudovirales phage|dsDNA||MAG: uncultured Caudovirales phage genome assembly, chromosome: HRS-ES1-C7457|Czech Republic	14244	0.9585228562355042	0.012557594984515447
+OX382596.1 |||uncultured Caudovirales phage|dsDNA||MAG: uncultured Caudovirales phage genome assembly, chromosome: HRS-ES10-C142|Czech Republic	52831	0.9342136383056641	0.015220182793262331
+OX382616.1 |||uncultured Caudovirales phage|dsDNA||MAG: uncultured Caudovirales phage genome assembly, chromosome: HRS-EL2-C54|Czech Republic	50252	0.9999035000801086	0.0015673389228793716
+OX382633.1 |||uncultured Caudovirales phage|dsDNA||MAG: uncultured Caudovirales phage genome assembly, chromosome: HRS-EL10-C15|Czech Republic	67052	0.9962273240089417	0.005683964045622781
+OX382641.1 |||uncultured Caudovirales phage|dsDNA||MAG: uncultured Caudovirales phage genome assembly, chromosome: HRS-EL11-C59|Czech Republic	30568	0.9999828934669495	0.0008308784651408716
+OX382665.1 |||uncultured Caudovirales phage|dsDNA||MAG: uncultured Caudovirales phage genome assembly, chromosome: HRS-HS3-C403|Czech Republic	34374	0.9999739527702332	0.0008875292695822947
+OX382689.1 |||uncultured Caudovirales phage|dsDNA||MAG: uncultured Caudovirales phage genome assembly, chromosome: HRS-HS6-C258|Czech Republic	46146	0.5202732682228088	0.05442253946672709
+OX382709.1 |||uncultured Caudovirales phage|dsDNA||MAG: uncultured Caudovirales phage genome assembly, chromosome: HRS-ES5-C124|Czech Republic	38380	0.787796139717102	0.026248206057859356
+OX382712.1 |||uncultured Caudovirales phage|dsDNA||MAG: uncultured Caudovirales phage genome assembly, chromosome: HRS-ES3-C85|Czech Republic	46146	0.5202732682228088	0.05442253946672709
+OX382720.1 |||uncultured Caudovirales phage|dsDNA||MAG: uncultured Caudovirales phage genome assembly, chromosome: HRS-HL12-C86|Czech Republic	43954	0.26324671506881714	0.12872951129239368
+OX382723.1 |||uncultured Caudovirales phage|dsDNA||MAG: uncultured Caudovirales phage genome assembly, chromosome: HRS-HS3-C272|Czech Republic	39800	0.9965750575065613	0.0054951280308180375
+OX382736.1 |||uncultured Caudovirales phage|dsDNA||MAG: uncultured Caudovirales phage genome assembly, chromosome: HRS-ES7-C177|Czech Republic	33816	0.9987436532974243	0.003946672709419141
+OX382737.1 |||uncultured Caudovirales phage|dsDNA||MAG: uncultured Caudovirales phage genome assembly, chromosome: HRS-HS3-C1879|Czech Republic	15109	0.6627151966094971	0.03612432963214744
+OX382755.1 |||uncultured Caudovirales phage|dsDNA||MAG: uncultured Caudovirales phage genome assembly, chromosome: HRS-ES12-C344|Czech Republic	34245	0.9998018741607666	0.0020205453584107563
+OX382803.1 |||uncultured Caudovirales phage|dsDNA||MAG: uncultured Caudovirales phage genome assembly, chromosome: HRS-ES3-C216|Czech Republic	31626	0.9998433589935303	0.0019072437495279099
+OX382816.1 |||uncultured Caudovirales phage|dsDNA||MAG: uncultured Caudovirales phage genome assembly, chromosome: HRS-HS1-C287|Czech Republic	39800	0.9965750575065613	0.0054951280308180375
+OX382824.1 |||uncultured Caudovirales phage|dsDNA||MAG: uncultured Caudovirales phage genome assembly, chromosome: HRS-HS3-C8|Czech Republic	163096	0.9938538074493408	0.006552609713724601
+OX382851.1 |||uncultured Caudovirales phage|dsDNA||MAG: uncultured Caudovirales phage genome assembly, chromosome: HRS-ES13-C2084|Czech Republic	15364	0.8835891485214233	0.019015786690837675
+OX382948.1 |||uncultured Caudovirales phage|dsDNA||MAG: uncultured Caudovirales phage genome assembly, chromosome: HRS-ES12-C455|Czech Republic	29392	0.9999353885650635	0.001321852103633205
+OX382961.1 |||uncultured Caudovirales phage|dsDNA||MAG: uncultured Caudovirales phage genome assembly, chromosome: HRS-HS1-C436|Czech Republic	32783	0.8965398669242859	0.017977188609411585
+OX382968.1 |||uncultured Caudovirales phage|dsDNA||MAG: uncultured Caudovirales phage genome assembly, chromosome: HRS-HS1-C72|Czech Republic	73197	0.9068272113800049	0.017221844550192614
+OX382978.1 |||uncultured Caudovirales phage|dsDNA||MAG: uncultured Caudovirales phage genome assembly, chromosome: HRS-ES2-C1510|Czech Republic	31626	0.9998433589935303	0.0019072437495279099
+OX383001.1 |||uncultured Caudovirales phage|dsDNA||MAG: uncultured Caudovirales phage genome assembly, chromosome: HRS-ES2-C1068|Czech Republic	37686	0.6754539608955383	0.0351234987536823
+OX383009.1 |||uncultured Caudovirales phage|dsDNA||MAG: uncultured Caudovirales phage genome assembly, chromosome: HRS-ES7-C132|Czech Republic	38380	0.787796139717102	0.026248206057859356
+OX383016.1 |||uncultured Caudovirales phage|dsDNA||MAG: uncultured Caudovirales phage genome assembly, chromosome: HRS-HS9-C70|Czech Republic	100237	0.9999750256538391	0.0008686456681018204
+OX383044.1 |||uncultured Caudovirales phage|dsDNA||MAG: uncultured Caudovirales phage genome assembly, chromosome: HRS-HS6-C234|Czech Republic	48365	0.7689521908760071	0.027909962988141097
+OX383045.1 |||uncultured Caudovirales phage|dsDNA||MAG: uncultured Caudovirales phage genome assembly, chromosome: HRSG-H12-C3842|Czech Republic	16829	0.834323525428772	0.022603670972127805
+OX383060.1 |||uncultured Caudovirales phage|dsDNA||MAG: uncultured Caudovirales phage genome assembly, chromosome: HRS-ES5-C154|Czech Republic	36902	0.5627130270004272	0.04651031044640834
+OX383098.1 |||uncultured Caudovirales phage|dsDNA||MAG: uncultured Caudovirales phage genome assembly, chromosome: HRSG-H1-C353|Czech Republic	46146	0.5202732682228088	0.05442253946672709
+OX383099.1 |||uncultured Caudovirales phage|dsDNA||MAG: uncultured Caudovirales phage genome assembly, chromosome: HRS-ES2-C737|Czech Republic	46146	0.5202732682228088	0.05442253946672709
+OX383101.1 |||uncultured Caudovirales phage|dsDNA||MAG: uncultured Caudovirales phage genome assembly, chromosome: HRSG-H12-C1131|Czech Republic	36510	0.983959436416626	0.008724223883979152
+OX383151.1 |||uncultured Caudovirales phage|dsDNA||MAG: uncultured Caudovirales phage genome assembly, chromosome: HRSG-E2-C743|Czech Republic	32783	0.8947538137435913	0.018071606616813958
+OX383157.1 |||uncultured Caudovirales phage|dsDNA||MAG: uncultured Caudovirales phage genome assembly, chromosome: HRSG-E13-C301|Czech Republic	40064	0.9975908994674683	0.004947503587884281
+OX383160.1 |||uncultured Caudovirales phage|dsDNA||MAG: uncultured Caudovirales phage genome assembly, chromosome: HRSG-H3-C613|Czech Republic	35715	0.24807611107826233	0.1329783216255004
+OX383204.1 |||uncultured Caudovirales phage|dsDNA||MAG: uncultured Caudovirales phage genome assembly, chromosome: HRSG-H12-C4526|Czech Republic	15109	0.6617448329925537	0.03612432963214744
+OX383217.1 |||uncultured Caudovirales phage|dsDNA||MAG: uncultured Caudovirales phage genome assembly, chromosome: HRSG-E3-C145|Czech Republic	37854	0.8233423829078674	0.02345343303874915
+OX461087.1 |||Escherichia phage EcoIv28_Lewi|dsDNA||Caudoviricetes sp. EcoIv28_Lewi genome assembly, chromosome: Lewi|Cote d'Ivoire	48435	0.9267895221710205	0.015843341642117984
+OM870968.1 |Pakpunavirus||Pseudomonas phage vB_Paer_Ps25|dsDNA|Pseudomonas aeruginosa|Pseudomonas phage vB_Paer_Ps25, complete genome|Tunisia	87887	0.9992340803146362	0.0032479794546415894
+OP875101.1 |Pakpunavirus||Pseudomonas phage SPA05|dsDNA|Pseudomonas aeruginosa PAO1|Pseudomonas phage SPA05, complete genome|Thailand	93656	0.9994027614593506	0.0030024926353954227
+OQ355702.1 |Sepunavirus|Herelleviridae|Staphylococcus phage vB_SepM_BE24|dsDNA|Staphylococcus epidermidis|Staphylococcus phage vB_SepM_BE24, complete genome|	140570	1.0	0.0
+OX359472.1 |Ghunavirus|Autographiviridae|Ghunavirus PSA2|dsDNA|Pseudomonas|Pseudomonas phage CHF7 genome assembly, chromosome: 1|	40478	0.9999997615814209	0.00026437042072664096
+OQ404738.1 |Webervirus|Drexlerviridae|Klebsiella phage phi731|dsDNA|Klebsiella pneumoniae|Klebsiella phage phi731, complete genome|	50237	0.9988832473754883	0.003757836694614397
+ON840058.1 |||Caudoviricetes sp.|dsDNA|Rattus norvegicus|Caudoviricetes sp. strain RnS01/con/TERL4 large terminase protein gene, complete cds|China	1752	0.9941034317016602	0.006401540901880807
+ON840078.1 |||Caudoviricetes sp.|dsDNA|Rattus norvegicus|Caudoviricetes sp. strain RnO03/con/PodoTERL1 large terminase protein gene, complete cds|China	1485	1.0	0.0
+ON809765.1 |Chivirus|Casjensviridae|Salmonella phage SeF6b|dsDNA|Salmonella enterica|Salmonella phage SeF6b, complete genome|Spain	59519	0.9975188374519348	0.00498527079084523
+OQ101252.1 |Vieuvirus||Acinetobacter phage Aclw_8|dsDNA|Acinetobacter baumannii|Acinetobacter phage Aclw_8, partial genome|Poland	47018	0.6119191646575928	0.04093964800966841
+OQ267696.1 |||Vibrio phage VPHZ6|dsDNA|Vibrio parahaemolyticus|Vibrio phage VPHZ6, complete genome|China	37871	0.7618653774261475	0.028570889039957702
+OM293956.1 |||Bordetella phage vB_BaM-IFTN7|dsDNA|Bordetella avium|Bordetella phage vB_BaM-IFTN7, complete genome|Germany	40972	0.3814123868942261	0.10097061711609638
+OM728296.1 ||Herelleviridae|Bacillus phage vB_BsuM-Goe26|dsDNA|Bacillus subtilis|Bacillus phage vB_BsuM-Goe26, complete genome|Germany	129523	0.9995041489601135	0.002926958229473525
+MZ956764.1 |Nankokuvirus||Pseudomonas phage RP4|dsDNA|Pseudomonas|MAG: Pseudomonas phage RP4, complete genome|Turkey	88171	0.9978280067443848	0.004720900370118589
+OQ243220.1 |Glaedevirus||Escherichia phage phiSTEC1575-Stx2k|dsDNA|Escherichia coli|Escherichia phage phiSTEC1575-Stx2k, complete genome|China	46647	0.5091477632522583	0.05746279930508347
+OM240926.1 |Salasvirus|Salasmaviridae|Bacillus phage vB_BsuP-Goe15|dsDNA|Bacillus subtilis|Bacilus phage vB_BsuP-Goe15, complete genome|Germany	19078	0.9999957084655762	0.0005476244429337563
+OM621925.1 |Triavirus||Staphylococcus phage PHB38a|dsDNA|Staphylococcus sp.|Staphylococcus phage PHB38a clone 38-1 genomic sequence|China	3415	0.9999974370002747	0.0004909736384923332
+OQ067478.1 |||Polaromonas phage Tiera|dsDNA|Polaromonas sp.|Polaromonas phage Tiera, complete genome|	45327	0.8963162899017334	0.018014955812372536
+MW435566.1 |Tsukubavirus||Xanthomonas phage X2|dsDNA|Xanthomonas oryzae pv. oryzae|Xanthomonas phage X2, complete genome|China	45966	0.5272915363311768	0.05294961855125009
+OP869847.1 |||Lacticaseibacillus phage R23.1|dsDNA|Lacticaseibacillus rhamnosus|Lacticaseibacillus phage R23.1, complete genome|	14518	0.645017147064209	0.03752171614170254
+OP947165.1 |||Thiohalocapsa phage LS06-2018-MD03|dsDNA|Thiohalocapsa|Thiohalocapsa phage LS06-2018-MD03, complete genome|USA	50490	0.9999908208847046	0.0006231588488556538
+OP172695.1 |||Phocaeicola phage BM127P2|dsDNA|Phocaeicola massiliensis|Phocaeicola phage BM127P2, complete genome|	36652	0.9999704957008362	0.0010197144799456153
+OP172719.1 |||Bacteroides phage BT638P1|dsDNA|Bacteroides thetaiotaomicron|Bacteroides phage BT638P1, complete genome|	37356	0.9818170070648193	0.009026361507666742
+OP172728.1 |||Bacteroides phage BT681P3|dsDNA|Bacteroides thetaiotaomicron|Bacteroides phage BT681P3, partial genome|	35676	0.9936122894287109	0.006590376916685551
+OP172733.1 |||Bacteroides phage BU241P1|dsDNA|Bacteroides uniformis|Bacteroides phage BU241P1, complete genome|	34519	0.9975317716598511	0.00498527079084523
+OP172736.1 |||Phocaeicola phage BV57P1|dsDNA|Phocaeicola vulgatus|Phocaeicola phage BV57P1, complete genome|	35732	0.9999887943267822	0.0006798096532970768
+OP172739.1 |||Phocaeicola phage BV185P1|dsDNA|Phocaeicola vulgatus|Phocaeicola phage BV185P1, complete genome|	35805	0.9999276995658875	0.0014351537125160511
+OP172758.1 |||Hungatella phage CH17P1|dsDNA|Hungatella|Hungatella phage CH17P1, partial genome|	15915	0.9999573826789856	0.0010763652843870384
+OP172800.1 |Saphexavirus||Enterococcus phage EF653P5|dsDNA|Enterococcus faecalis|Enterococcus phage EF653P5, complete genome|	56467	0.9997349977493286	0.002247148576176448
+OP172817.1 |||Parabacteroides phage PD691P4|dsDNA|Parabacteroides distasonis|Parabacteroides phage PD691P4, complete genome|	45219	0.9990139007568359	0.003569000679809653
+OP172818.1 |||Parabacteroides phage PD691P6|dsDNA|Parabacteroides distasonis|Parabacteroides phage PD691P6, complete genome|	40567	0.994179368019104	0.0063448900974393836
+OP172835.1 |||Parabacteroides phage PM708P4|dsDNA|Parabacteroides merdae|Parabacteroides phage PM708P4, complete genome|	35697	0.9935204982757568	0.006628144119646499
+OP172838.1 |||Weissella phage WC27P1|dsDNA|Weissella confusa|Weissella phage WC27P1, complete genome|	26570	0.9718284606933594	0.010518166024624217
+OP947226.2 |Gervaisevirus||Ralstonia phage p2110|dsDNA|Ralstonia solanacearum|Ralstonia phage p2110, complete genome|China	59381	0.9522045254707336	0.01335070624669537
+OP961724.1 |Charlievirus||Mycobacterium phage BIB9|dsDNA|Mycolicibacterium smegmatis MC2 155|Mycobacterium phage BIB9, complete genome|USA	38716	0.9348771572113037	0.015182415590301382
+LC744186.1 |||Stx1a-converting phage Stx1a_10012|dsDNA||Stx1a-converting phage Stx1a_10012 DNA, complete genome|	55817	0.21259713172912598	0.14274114359090564
+LC744187.1 |||Stx1a-converting phage Stx1a_10314|dsDNA||Stx1a-converting phage Stx1a_10314 DNA, complete genome|	55851	0.18752922117710114	0.1512576478585996
+OP745622.1 |Rosemountvirus||Salmonella phage SB2|dsDNA|Salmonella sp.|Salmonella phage SB2, complete genome|	53198	0.9658517837524414	0.011500113301608883
+OP880301.3 |Peduovirus|Peduoviridae|Yersinia phage GMG73|dsDNA|Yersinia pestis|UNVERIFIED: Yersinia phage GMG73, complete genome|China	33804	0.47461840510368347	0.07593096155298738
+OP751152.1 |||Arthrobacter phage Eesa|dsDNA|Arthrobacter globiformis|Arthrobacter phage Eesa, complete genome|USA	39792	0.6560060977935791	0.036615303270639776
+OP753451.1 |||Clostridium phage H1|dsDNA|Clostridium perfringens|Clostridium phage H1, complete genome|Australia	52794	0.9935665130615234	0.0066092605181660245
+ON470626.1 |||Escherichia phage vB_EcoS-783R2|dsDNA|Escherichia coli|Escherichia phage vB_EcoS-783R2, partial genome|United Kingdom	24129	0.38722851872444153	0.0995543470050608
+OP423032.1 |Kuttervirus|Ackermannviridae|Salmonella phage vB_Hercules_SET|dsDNA|Salmonella enterica subsp. enterica serovar Typhimurium|Salmonella phage vB_Hercules_SET, complete genome|USA	157338	0.9967164397239685	0.00541959362489614
+OP555182.1 |||Caudoviricetes sp.|dsDNA|Homo sapiens|MAG: Siphoviridae sp. isolate AHPP30 terminase large subunit gene, complete cds|China	1443	0.9567044973373413	0.012803081803761614
+OP555184.1 |||Caudoviricetes sp.|dsDNA|Homo sapiens|MAG: Myoviridae sp. isolate AHPP32 terminase large subunit gene, complete cds|China	1944	0.9998946189880371	0.0016617569302817433
+OP555197.1 |||Caudoviricetes sp.|dsDNA|Homo sapiens|MAG: Siphoviridae sp. isolate AHPP45 terminase large subunit gene, complete cds|China	1719	0.9996037483215332	0.00264370420726641
+OP555206.1 |||Caudoviricetes sp.|dsDNA|Homo sapiens|MAG: Myoviridae sp. isolate AHPP54 terminase large subunit gene, complete cds|China	1293	0.5816226601600647	0.04431981267467331
+OP555235.1 |||Caudoviricetes sp.|dsDNA||MAG: Siphoviridae sp. isolate AHPP83 terminase large subunit gene, complete cds|China	1728	0.9999014139175415	0.0015862225243598459
+OP797796.1 |Ahphunavirus|Autographiviridae|Aeromonas phage P2|dsDNA|Aeromonas hydrophila|Aeromonas phage P2, complete genome|India	42660	0.9999970197677612	0.0005098572399728076
+OP272490.1 |Kayfunavirus|Autographiviridae|Enterobacter phage 01_vB_Eclo_IJM|dsDNA|Enterobacter cloacae|Enterobacter phage 01_vB_Eclo_IJM, complete genome|Kenya	56270	0.9999994039535522	0.0003399048266485384
+OP620754.2 |Przondovirus|Autographiviridae|Klebsiella phage vB_KpnP_K2044-HW|dsDNA|Klebsiella pneumoniae|Klebsiella phage vB_KpnP_K2044-HW, complete genome|China	40115	1.0	0.0
+OK583893.1 |Drulisvirus|Autographiviridae|Klebsiella phage KPPK108.2|dsDNA|Klebsiella pneumoniae|Klebsiella phage KPPK108.2, complete genome|Russia	43834	0.9977508783340454	0.0048153183775209605
+OP413830.1 ||Autographiviridae|Klebsiella phage pKV-BS375-3.1|dsDNA|Klebsiella pneumoniae|Klebsiella phage pKV-BS375-3.1, complete genome|China	45617	0.9994759559631348	0.0029458418309539994
+OP413831.1 |Efbeekayvirus|Schitoviridae|Klebsiella phage pKP-BM327-1.1|dsDNA|Klebsiella pneumoniae|Klebsiella phage pKP-BM327-1.1, complete genome|China	76442	0.9999752044677734	0.000849762066621346
+OP503991.1 |Harrisonvirus||Paenibacillus phage Lilo|dsDNA|Paenibacillus larvae|Paenibacillus phage Lilo, complete genome|New Zealand	40941	0.8183467388153076	0.023868872271319588
+OP650936.1 |||Hujiaoplasma phage zrk29-1|dsDNA|Tenericutes bacterium zrk29|UNVERIFIED: Hujiaoplasma phage zrk29-1, complete genome|	47902	0.15293779969215393	0.16343757081350554
+OP517101.1 |||Caudoviricetes sp.|dsDNA|Ursus thibetanus|MAG: Caudovirales sp. isolate 1-5-myo-terl-3 terminase large subunit gene, complete cds|China	1759	0.9879066944122314	0.007855578215877332
+OP517164.1 |||Caudoviricetes sp.|dsDNA|Ailuropoda melanoleuca|MAG: Caudovirales sp. isolate 2-1-drex-terl-1 terminase large subunit gene, complete cds|China	1743	1.0	0.0
+OP517192.1 |||Caudoviricetes sp.|dsDNA|Ailuropoda melanoleuca|MAG: Caudovirales sp. isolate 2-2-myo-terl-10 terminase large subunit gene, complete cds|China	1508	0.9954691529273987	0.005967218067829897
+OP517209.1 |||Caudoviricetes sp.|dsDNA|Ailuropoda melanoleuca|MAG: Caudovirales sp. isolate 2-2-sipho-terl-14 terminase large subunit gene, complete cds|China	1623	0.9999929070472717	0.0006231588488556538
+OP517240.1 |||Caudoviricetes sp.|dsDNA|Ailuropoda melanoleuca|MAG: Caudovirales sp. isolate 2-3-podo-terl-5 terminase large subunit gene, complete cds|China	2060	1.0	0.0
+OP517242.1 |||Caudoviricetes sp.|dsDNA|Ailuropoda melanoleuca|MAG: Caudovirales sp. isolate 2-3-schito-terl-2 terminase large subunit gene, complete cds|China	1757	1.0	0.0
+OP517258.1 |||Caudoviricetes sp.|dsDNA|Ailuropoda melanoleuca|MAG: Caudovirales sp. isolate 2-3-sipho-terl-18 terminase large subunit gene, complete cds|China	1727	0.9864374399185181	0.00823325024548682
+OP517325.1 |||Caudoviricetes sp.|dsDNA|Ailuropoda melanoleuca|MAG: Caudovirales sp. isolate 2-5-drex-terl-7 terminase large subunit gene, complete cds|China	1886	1.0	0.0
+OP517330.1 |||Caudoviricetes sp.|dsDNA|Ailuropoda melanoleuca|MAG: Caudovirales sp. isolate 2-5-myo-terl-2 terminase large subunit gene, complete cds|China	1669	0.9999862909317017	0.0007742276606994485
+OP517347.1 |||Caudoviricetes sp.|dsDNA|Ailuropoda melanoleuca|MAG: Caudovirales sp. isolate 2-5-sipho-terl-9 terminase large subunit gene, complete cds|China	1679	0.998910665512085	0.0037389530931339226
+OP517398.1 |||Caudoviricetes sp.|dsDNA|Ailuropoda melanoleuca|MAG: Caudovirales sp. isolate 2-6-sipho-terl-17 terminase large subunit gene, complete cds|China	2606	0.9999868869781494	0.0007742276606994485
+OP517408.1 |||Caudoviricetes sp.|dsDNA|Ailuropoda melanoleuca|MAG: Caudovirales sp. isolate 2-7-drex-terl-11 terminase large subunit gene, complete cds|China	1736	0.9999849200248718	0.0008119948636603973
+OP517432.1 |||Caudoviricetes sp.|dsDNA|Ailuropoda melanoleuca|MAG: Caudovirales sp. isolate 2-7-sipho-terl-6 terminase large subunit gene, complete cds|China	1861	0.9999771118164062	0.000849762066621346
+OP517449.1 |||Caudoviricetes sp.|dsDNA|Ailuropoda melanoleuca|MAG: Caudovirales sp. isolate 2-7-sipho-terl-24 terminase large subunit gene, complete cds|China	1329	0.6082509756088257	0.041392854445199787
+OP517480.1 |||Caudoviricetes sp.|dsDNA|Ailuropoda melanoleuca|MAG: Caudovirales sp. isolate 2-10-sipho-terl-5 terminase large subunit gene, complete cds|China	1454	0.9948524236679077	0.006118286879673691
+OP517525.1 |||Caudoviricetes sp.|dsDNA|Ailuropoda melanoleuca|MAG: Caudovirales sp. isolate 2-13-sipho-terl-12 terminase large subunit gene, complete cds|China	1451	0.9997546672821045	0.0021904977717350253
+OP517544.1 |||Caudoviricetes sp.|dsDNA|Ailuropoda melanoleuca|MAG: Caudovirales sp. isolate 2-14-sipho-terl-8 terminase large subunit gene, complete cds|China	1710	0.9998987913131714	0.001642873328801269
+OP517566.1 |||Caudoviricetes sp.|dsDNA|Ailuropoda melanoleuca|MAG: Caudovirales sp. isolate 2-15-sipho-terl-1 terminase large subunit gene, complete cds|China	1630	0.9999991059303284	0.00039655563108996147
+OP517577.1 |||Caudoviricetes sp.|dsDNA|Ailuropoda melanoleuca|MAG: Caudovirales sp. isolate 2-15-sipho-terl-12 terminase large subunit gene, complete cds|China	1600	0.9794061183929443	0.009347382732834806
+OP517588.1 |||Caudoviricetes sp.|dsDNA|Ailuropoda melanoleuca|MAG: Caudovirales sp. isolate 2-16-myo-terl-2 terminase large subunit gene, complete cds|China	1651	0.9365200996398926	0.015012463176977114
+OP517631.1 |||Caudoviricetes sp.|dsDNA|Ailuropoda melanoleuca|MAG: Caudovirales sp. isolate 2-17-podo-terl-12 terminase large subunit gene, complete cds|China	1649	1.0	0.0
+OP517658.1 |||Caudoviricetes sp.|dsDNA|Ailuropoda melanoleuca|MAG: Caudovirales sp. isolate 2-18-myo-terl-2 terminase large subunit gene, complete cds|China	1576	0.9944014549255371	0.006250472090037012
+OP517688.1 |||Caudoviricetes sp.|dsDNA|Ailuropoda melanoleuca|MAG: Caudovirales sp. isolate 2-19-drex-terl-1 terminase large subunit gene, complete cds|China	1795	0.9999995231628418	0.0003021376236875897
+OP517702.1 |||Caudoviricetes sp.|dsDNA|Ailuropoda melanoleuca|MAG: Caudovirales sp. isolate 2-21-drex-terl-1 terminase large subunit gene, complete cds|China	1701	0.9996012449264526	0.00264370420726641
+OP517711.1 |||Caudoviricetes sp.|dsDNA|Ailuropoda melanoleuca|MAG: Caudovirales sp. isolate 2-22-myo-terl-3 terminase large subunit gene, complete cds|China	1750	1.0	0.0
+OP517713.1 |||Caudoviricetes sp.|dsDNA|Ailuropoda melanoleuca|MAG: Caudovirales sp. isolate 2-22-podo-terl-1 terminase large subunit gene, complete cds|China	1804	1.0	0.0
+OP517742.1 |||Caudoviricetes sp.|dsDNA|Ailuropoda melanoleuca|MAG: Caudovirales sp. isolate 2-25-myo-terl-1 terminase large subunit gene, complete cds|China	1625	0.9997824430465698	0.002058312561371705
+OP517787.1 |||Caudoviricetes sp.|dsDNA|Ailuropoda melanoleuca|MAG: Caudovirales sp. isolate 2-28-sipho-terl-5 terminase large subunit gene, complete cds|China	1606	0.9950919151306152	0.006023868872271319
+OP517791.1 |||Caudoviricetes sp.|dsDNA|Ailuropoda melanoleuca|MAG: Caudovirales sp. isolate 2-29-drex-terl-2 terminase large subunit gene, complete cds|China	1722	0.9996683597564697	0.002435984590981192
+OP517804.1 |||Caudoviricetes sp.|dsDNA|Ailuropoda melanoleuca|MAG: Caudovirales sp. isolate 2-30-myo-terl-1 terminase large subunit gene, complete cds|China	1545	0.9995609521865845	0.0027758894176297304
+OP517810.1 |||Caudoviricetes sp.|dsDNA|Ailuropoda melanoleuca|MAG: Caudovirales sp. isolate 2-31-chase-terl-2 terminase large subunit gene, complete cds|China	2250	0.999999463558197	0.0003399048266485384
+OP517822.1 |||Caudoviricetes sp.|dsDNA|Ailuropoda melanoleuca|MAG: Caudovirales sp. isolate 2-31-sipho-terl-3 terminase large subunit gene, complete cds|China	2026	0.9999991059303284	0.00039655563108996147
+OP517833.1 |||Caudoviricetes sp.|dsDNA|Ailuropoda melanoleuca|MAG: Caudovirales sp. isolate 2-33-sipho-terl-4 terminase large subunit gene, complete cds|China	1531	0.9998329877853394	0.001963894553969333
+OP517838.1 |||Caudoviricetes sp.|dsDNA|Ailurus fulgens|MAG: Caudovirales sp. isolate 3-1-drex-terl-2 terminase large subunit gene, complete cds|China	1778	1.0	0.0
+OP517856.1 |||Caudoviricetes sp.|dsDNA|Ailurus fulgens|MAG: Caudovirales sp. isolate 3-3-sipho-terl-8 terminase large subunit gene, complete cds|China	1527	0.999998152256012	0.0004343228340509102
+OP517941.1 |||Caudoviricetes sp.|dsDNA|Ailurus fulgens|MAG: Caudovirales sp. isolate 3-9-sipho-terl-5 terminase large subunit gene, complete cds|China	1679	0.7882469892501831	0.026248206057859356
+OP517959.1 |||Caudoviricetes sp.|dsDNA|Ailurus fulgens|MAG: Caudovirales sp. isolate 3-10-sipho-terl-9 terminase large subunit gene, complete cds|China	1977	0.9993962049484253	0.0030024926353954227
+OP518015.1 |||Caudoviricetes sp.|dsDNA|Moschus berezovskii|MAG: Caudovirales sp. isolate 4-3-myo-terl-1 terminase large subunit gene, complete cds|China	1524	0.9897501468658447	0.0074590225847873705
+OP293079.1 |Stanholtvirus||Burkholderia phage PhiBt-E264.1|dsDNA|Burkholderia pseudomallei|Burkholderia phage PhiBt-E264.1, complete genome|	44526	0.2329390048980713	0.13673615832011482
+OP375635.1 |||Vibrio phage vB_VaS_L1|dsDNA|Vibrio alginolyticus|Vibrio phage vB_VaS_L1, complete genome|China	39810	0.9162054061889648	0.016542034896895538
+OP481051.1 ||Schitoviridae|Alteromonas phage vB_AemP_PT15-A5|dsDNA|Alteromonas mediterranea|Alteromonas phage vB_AemP_PT15-A5, complete genome|Spain	75104	0.9999839663505554	0.0008308784651408716
+ON932083.1 |Pradovirus|Autographiviridae|Xanthomonas phage vB_Xar_IVIA-DoCa9|dsDNA|Xanthomonas arboricola|Xanthomonas phage vB_Xar_IVIA-DoCa9, complete genome|Spain	43240	0.9999853372573853	0.0007931112621799229
+OP103922.1 |Przondovirus|Autographiviridae|Klebsiella phage 150031|dsDNA|Klebsiella pneumoniae|Klebsiella phage 150031, complete genome|China	41374	0.999999463558197	0.0003399048266485384
+ON170045.1 |||Ralstonia phage YO015_6|dsDNA|Ralstonia solanacearum|UNVERIFIED_ORG: Ralstonia phage YO015_6 sequence|Brazil	14245	0.2628394365310669	0.1287861620968351
+ON170049.1 |||Ralstonia phage YO017_1|dsDNA|Ralstonia solanacearum|UNVERIFIED_ORG: Ralstonia phage YO017_1 sequence|Brazil	35468	0.17566664516925812	0.15516655336505777
+ON170053.1 ||Peduoviridae|Ralstonia phage YO018_4|dsDNA|Ralstonia solanacearum|UNVERIFIED_ORG: Ralstonia phage YO018_4 sequence|Brazil	19763	0.13303904235363007	0.1724639323211723
+ON170079.1 |||Ralstonia phage YO036_3|dsDNA|Ralstonia solanacearum|UNVERIFIED_ORG: Ralstonia phage YO036_3 sequence|Costa Rica	22903	0.38209325075149536	0.10087619910869401
+ON170088.1 |||Ralstonia phage YO045_1|dsDNA|Ralstonia solanacearum|UNVERIFIED_ORG: Ralstonia phage YO045_1 sequence|Cyprus	35468	0.17566664516925812	0.15516655336505777
+ON170120.1 |||Ralstonia phage YO070_1|dsDNA|Ralstonia solanacearum|UNVERIFIED_ORG: Ralstonia phage YO070_1 sequence|Egypt	35468	0.17566664516925812	0.15516655336505777
+ON170196.1 |||Ralstonia phage YO114_1|dsDNA|Ralstonia solanacearum|UNVERIFIED_ORG: Ralstonia phage YO114_1 sequence|Ireland	35468	0.17566664516925812	0.15516655336505777
+ON170228.1 |||Ralstonia phage YO134_2|dsDNA|Ralstonia solanacearum|UNVERIFIED_ORG: Ralstonia phage YO134_2 sequence|Martinique	20321	0.7306810617446899	0.030515899992446558
+ON170250.1 |||Ralstonia phage YO147_1|dsDNA|Ralstonia solanacearum|UNVERIFIED_ORG: Ralstonia phage YO147_1 sequence|Pakistan	35468	0.17566664516925812	0.15516655336505777
+ON170252.1 |||Ralstonia phage YO148_1|dsDNA|Ralstonia solanacearum|UNVERIFIED_ORG: Ralstonia phage YO148_1 sequence|Pakistan	35468	0.17566664516925812	0.15516655336505777
+ON170264.1 |Dinavirus||Ralstonia phage YO158_1|dsDNA|Ralstonia solanacearum|UNVERIFIED_ORG: Ralstonia phage YO158_1 sequence|Peru	39198	0.07538598030805588	0.20760631467633506
+ON170295.1 |||Ralstonia phage YO174_1|dsDNA|Ralstonia solanacearum|UNVERIFIED_ORG: Ralstonia phage YO174_1 sequence|Serbia	35468	0.17566664516925812	0.15516655336505777
+OP559177.1 |Efquatrovirus||Enterococcus phage vB_Efa29212_2e|dsDNA|Enterococcus sp.|Enterococcus phage vB_Efa29212_2e, complete genome|	41351	0.9999989867210388	0.00039655563108996147
+OP380492.1 ||Herelleviridae|Bacillus phage Nachito|dsDNA|Bacillus sp. ET1|Bacillus phage Nachito, complete genome|USA	148928	0.9999970197677612	0.0005098572399728076
+ON911538.2 |Septimatrevirus||Xanthomonas phage vB_Xar_IVIA-DoCa1|dsDNA|Xanthomonas arboricola|Xanthomonas phage vB_Xar_IVIA-DoCa1, complete genome|Spain	43553	0.999992847442627	0.0006231588488556538
+OP270708.1 |||Caudoviricetes sp.|dsDNA||MAG: Caudoviricetes sp. isolate Sunny-1, complete genome|China	78768	0.6830172538757324	0.03455699070926807
+OP292673.1 |Tlsvirus|Drexlerviridae|Salmonella phage F115|dsDNA|Salmonella sp.|Salmonella phage F115, complete genome|Ecuador	48162	0.9999229907989502	0.0014918045169574742
+ON042750.1 ||Salasmaviridae|Bacillus phage Chedec 11|dsDNA|Bacillus subtilis|Bacillus phage Chedec 11, complete genome|India	17798	0.9998511075973511	0.0019072437495279099
+OX335387.1 |Webervirus|Drexlerviridae|Klebsiella phage mtp31|dsDNA|Klebsiella pneumoniae|Klebsiella phage mtp31 genome assembly, chromosome: 1|	48467	0.9971984624862671	0.005098572399728076
+OX335393.1 |Webervirus|Drexlerviridae|Klebsiella phage cp2|dsDNA|Klebsiella pneumoniae|Klebsiella phage cp2 genome assembly, chromosome: 1|	49514	0.9451091885566711	0.014181584711836242
+OX335398.1 |Przondovirus|Autographiviridae|Klebsiella phage cp8|dsDNA|Klebsiella pneumoniae|Klebsiella phage cp8 genome assembly, chromosome: 1|	40866	1.0	0.0
+OP297541.2 |||Mycobacterium phage Funsized|dsDNA|Mycolicibacterium smegmatis|Mycobacterium phage Funsized, complete genome|USA	71351	0.999995768070221	0.0005476244429337563
+OP297543.1 |Quhwahvirus||Microbacterium phage Cranjis|dsDNA|Microbacterium foliorum|Microbacterium phage Cranjis, complete genome|USA	53222	1.0	0.0
+OP297549.1 |Fromanvirus||Mycobacterium phage MaCh|dsDNA|Mycolicibacterium smegmatis MC2 155|Mycobacterium phage MaCh, complete genome|USA	52616	0.969127893447876	0.010990256061636075
+LC727865.1 |||Stx2a-converting phage Stx2a_JNE090996|dsDNA||Stx2a-converting phage Stx2a_JNE090996 DNA, complete genome|	50852	0.2916967272758484	0.12161039353425486
+LC727695.1 |Phikzvirus||Pseudomonas phage sp. Brmt|dsDNA|Pseudomonas aeruginosa|Pseudomonas phage sp. Brmt phiBrmt DNA, complete genome|Japan	278203	0.9867583513259888	0.008157715839564922
+ON602729.1 |Mydovirus||Klebsiella phage VLCpiM5b|dsDNA|Klebsiella pneumoniae|Klebsiella phage VLCpiM5b, complete genome|Spain	144995	0.998813807964325	0.003871138303497243
+ON602730.1 |||Klebsiella phage VLCpiS13f|dsDNA|Klebsiella pneumoniae|Klebsiella phage VLCpiS13f, complete genome|Spain	48050	0.43550974130630493	0.08743107485459627
+ON602749.1 |Kaypoctavirus|Schitoviridae|Klebsiella phage VLCpiP4a|dsDNA|Klebsiella pneumoniae|Klebsiella phage VLCpiP4a, complete genome|Spain	72708	0.9999877214431763	0.0007364604577384999
+ON602753.1 |Przondovirus|Autographiviridae|Klebsiella phage VLCpiA3d|dsDNA|Klebsiella pneumoniae|Klebsiella phage VLCpiA3d, complete genome|Spain	40499	0.999997079372406	0.0005098572399728076
+ON857925.1 |Pbunavirus||Pseudomonas phage vB_PaeM_FBPa2|dsDNA|Pseudomonas sp.|Pseudomonas phage vB_PaeM_FBPa2, complete genome|	65825	0.782284677028656	0.02666364529042979
+ON857930.1 |Pbunavirus||Pseudomonas phage vB_PaeM_FBPa12|dsDNA|Pseudomonas sp.|Pseudomonas phage vB_PaeM_FBPa12, complete genome|	66223	0.8334591388702393	0.0226792053780497
+ON970592.1 |||Microbacterium phage Gingerbug|dsDNA|Microbacterium foliorum|Microbacterium phage Gingerbug, complete genome|USA	39721	1.0	0.0
+OP068338.1 |Quhwahvirus||Microbacterium phage EarickHC|dsDNA|Microbacterium foliorum|Microbacterium phage EarickHC, complete genome|USA	52992	1.0	0.0
+OP171942.1 |Friunavirus|Autographiviridae|Acinetobacter phage AbpL|dsDNA|Acinetobacter baumannii|Acinetobacter phage AbpL, complete genome|China	41723	1.0	0.0
+OP235318.1 |Kayvirus|Herelleviridae|Staphylococcus phage SYL|dsDNA|Staphylococcus aureus|Staphylococcus phage SYL, complete genome|China	151066	1.0	0.0
+ON548418.1 |||Bacillus phage vB_BanS-Thrax2|dsDNA|Bacillus anthracis|Bacillus phage vB_BanS-Thrax2, complete genome|Australia	164774	1.0	0.0
+ON855040.1 |Tlsvirus|Drexlerviridae|Salmonella phage GSP032|dsDNA|Salmonella|Salmonella phage GSP032, complete genome|China	52100	0.9999969005584717	0.0005098572399728076
+OL597552.1 |Casadabanvirus||Pseudomonas phage ZCPA1|dsDNA|Pseudomonas aeruginosa|Pseudomonas phage ZCPA1 Seq12 genomic sequence|	1258	0.9999995231628418	0.0003021376236875897
+OM416765.1 ||Autographiviridae|Prochlorococcus phage P-SCSP1c|dsDNA|Prochlorococcus marinus subsp. pastoris str. CCMP1986|Prochlorococcus phage P-SCSP1c, complete genome|	37789	0.9995836615562439	0.002719238613188307
+OM416769.1 ||Autographiviridae|Prochlorococcus phage P-SCSP1h|dsDNA|Prochlorococcus marinus subsp. pastoris str. CCMP1986|Prochlorococcus phage P-SCSP1h, complete genome|	37844	0.9998387098312378	0.0019261273510083844
+OM416775.1 ||Autographiviridae|Prochlorococcus phage P-SCSP1o|dsDNA|Prochlorococcus marinus subsp. pastoris str. CCMP1986|Prochlorococcus phage P-SCSP1o, complete genome|	37752	0.9998602867126465	0.0019072437495279099
+OM416778.1 ||Autographiviridae|Prochlorococcus phage P-SCSP1s|dsDNA|Prochlorococcus marinus subsp. pastoris str. CCMP1986|Prochlorococcus phage P-SCSP1s, complete genome|	37849	0.9999377727508545	0.001321852103633205
+ON568193.1 |Teseptimavirus|Autographiviridae|Cedecea phage Yanou|dsDNA|Cedecea davisae|Cedecea phage Yanou, complete genome|Latvia	40865	0.9999995827674866	0.00028325402220711536
+ON754979.1 |Berlinvirus|Autographiviridae|Salmonella phage vB_SalM_PC127|dsDNA|Salmonella sp.|Salmonella phage vB_SalM_PC127, complete genome|	39169	0.9999997615814209	0.00026437042072664096
+ON456339.1 |Anayavirus||Mycobacterium Phage Topper|dsDNA|Mycolicibacterium smegmatis MC2 155|Mycobacterium Phage Topper, complete genome|USA	59708	0.9145536422729492	0.01665533650577838
+ON456347.1 |||Gordonia phage Finkle|dsDNA|Gordonia terrae|Gordonia phage Finkle, complete genome|USA	47895	0.7919778823852539	0.02600271923861319
+OX241563.1 |||Vibrio phage 382E49-1|dsDNA|Vibrio|Vibrio phage 382E49-1 genome assembly, chromosome: VP115E34_1|France	58584	0.99684739112854	0.005362942820454717
+ON712643.1 |Certrevirus||Pectobacterium phage vB_PcaM_P7_Pc|dsDNA|Pectobacterium carotovorum|Pectobacterium phage vB_PcaM_P7_Pc, complete genome|Sri Lanka	147299	0.9995704889297485	0.002757005816149256
+MZ234048.1 |Kagunavirus||Escherichia phage vB_EcoS-UTI89UKE1|dsDNA|Escherichia coli|Escherichia phage vB_EcoS-UTI89UKE1, complete genome|	41265	0.9559825658798218	0.01287861620968351
+ON212266.1 |Kuttervirus|Ackermannviridae|Enterobacter phage fGh-Ecl02|dsDNA|Enterobacter cloacae|Enterobacter phage fGh-Ecl02, complete genome|Ghana	153282	0.9991153478622437	0.00338016466500491
+ON286973.1 |Vequintavirus||Escherichia phage A51.2|dsDNA|Escherichia coli LF82|Escherichia phage A51.2, complete genome|Ireland	137300	0.9972378015518188	0.005098572399728076
+ON515458.1 |Slopekvirus|Straboviridae|Klebsiella phage BL02|dsDNA|Klebsiella pneumoniae|Klebsiella phage BL02, complete genome|China	175595	0.9999964237213135	0.0005287408414532819
+ON637772.1 |Marvinvirus||Mycobacterium phage Huphlepuff|dsDNA|Mycolicibacterium smegmatis MC2 155|Mycobacterium phage Huphlepuff, complete genome|USA	64543	0.99649977684021	0.005532895233778986
+ON526838.1 |Jerseyvirus||Salmonella phage GRNsp6|dsDNA|Salmonella sp.|Salmonella phage GRNsp6, complete genome|	43740	0.9106842875480652	0.01699524133242692
+OM223115.1 |Nickievirus||Pseudomonas phage hairong|dsDNA|Pseudomonas syringae pv. actinidiae|Pseudomonas phage hairong, complete genome|China	112842	0.9555298686027527	0.012935267014124934
+ON470596.1 |||Escherichia phage vB_EcoM-569R10|dsDNA|Escherichia coli|Escherichia phage vB_EcoM-569R10, complete genome|United Kingdom	19865	0.6217522025108337	0.03988216632676184
+ON470611.1 |Peduovirus|Peduoviridae|Escherichia phage vB_EcoM-473R3|dsDNA|Escherichia coli|Escherichia phage vB_EcoM-473R3, partial genome|United Kingdom	11018	0.8424756526947021	0.022037162927713575
+ON470620.1 ||Peduoviridae|Escherichia phage vB_EcoM-813R9|dsDNA|Escherichia coli|Escherichia phage vB_EcoM-813R9, partial genome|United Kingdom	38938	0.21155697107315063	0.143232117229398
+ON470624.1 |||Escherichia phage vB_EcoM-705R4|dsDNA|Escherichia coli|Escherichia phage vB_EcoM-705R4, complete genome|United Kingdom	27112	0.4489828944206238	0.08371100536294282
+ON113170.1 |Schiekvirus|Herelleviridae|Enterococcus phage vB_OCPT_CCS1|dsDNA|Enterococcus sp.|Enterococcus phage vB_OCPT_CCS1, complete genome|USA	150888	0.9999997615814209	0.00026437042072664096
+OM386656.1 |Phapecoctavirus||Escherichia phage vB_EcoM_ESCO25|dsDNA|Escherichia coli|Escherichia phage vB_EcoM_ESCO25, complete genome|France	149073	0.9999966621398926	0.0005098572399728076
+OM386663.1 |Felixounavirus||Escherichia phage vB_EcoM_ESCO49|dsDNA|Escherichia coli|Escherichia phage vB_EcoM_ESCO49, complete genome|France	84827	1.0	0.0
+OK523998.1 |Ghunavirus|Autographiviridae|Pseudomonas phage Pst_GM1|dsDNA|Pseudomonas syringae|Pseudomonas phage Pst_GM1, complete genome|France	40532	1.0	0.0
+ON108645.1 |Mapvirus||Mycobacterium phage NoShow|dsDNA|Mycolicibacterium smegmatis|Mycobacterium phage NoShow, complete genome|USA	52825	0.925491452217102	0.015918876048039883
+OM818327.1 |||Gordonia phage Santhid|dsDNA|Gordonia terrae|Gordonia phage Santhid, complete genome|USA	39295	0.7607494592666626	0.02860865624291865
+OM850392.1 ||Herelleviridae|Staphylococcus phage B2-102|dsDNA|Staphylococcus aureus|UNVERIFIED: Staphylococcus phage B2-102, complete genome|Turkey	142419	1.0	0.0
+MW202520.1 |||Caudoviricetes sp.|dsDNA||Myoviridae sp. isolate cta1H496, complete genome|USA	33597	0.8544783592224121	0.021187400861092227
+MW202725.1 |||Caudoviricetes sp.|dsDNA||Podoviridae sp. isolate ctzlq274, complete genome|USA	41774	0.9968013763427734	0.005381826421935192
+OM236516.1 |||Bacillus phage FADO|dsDNA|Bacillus subtilis BEST7003|Bacillus phage FADO, complete genome|Portugal	164756	0.9999995231628418	0.0003021376236875897
+OM654374.1 |||Aeromonas phage vB_AveS_KLEA5|dsDNA|Aeromonas veronii|Aeromonas phage vB_AveS_KLEA5, complete genome|Lithuania	44046	0.9867030382156372	0.00819548304252587
+OW251746.1 |Webervirus|Drexlerviridae|Klebsiella phage PSKP16|dsDNA|Klebsiella|Klebsiella phage PSKP16 genome assembly, chromosome: 1|	46712	0.9714890718460083	0.010555933227585164
+OL473597.1 |Shenzhenivirus|Kyanoviridae|Shenzhenivirus sszbm1|dsDNA|Synechococcus sp. CB0101|Synechococcus phage S-SZBM1, complete genome|China	177834	0.999988317489624	0.0007175768562580256
+OM681507.1 |Kuttervirus|Ackermannviridae|Kuttervirus PM10|dsDNA|Salmonella enterica|Salmonella phage vB_SenA_SM5, complete genome|India	157403	0.9909987449645996	0.007232419367021678
+OL763419.1 |Yuavirus|Mesyanzhinovviridae|Pseudomonas phage Churro|dsDNA|Pseudomonas aeruginosa PAO1|Pseudomonas phage Churro, complete genome|Australia	61240	0.9992552995681763	0.003191328650200166
+OM732337.1 |||Alteromonas phage vB_AmaS-R9Y3|dsDNA|Alteromonas macleodii ATCC 27126|Alteromonas phage vB_AmaS-R9Y3, complete genome|China	43008	0.9083590507507324	0.017108542941309767
+OM810255.1 |Kagunavirus||Escherichia phage UTI-CM001|dsDNA|Escherichia coli|Escherichia phage UTI-CM001, complete genome|	41222	0.994454562664032	0.006212704887076063
+OL799256.1 |Efquatrovirus||Efquatrovirus SHEF2|dsDNA|Enterococcus faecalis|Enterococcus phage phiSHEF10, complete genome|	41680	0.9999995827674866	0.00028325402220711536
+OL799259.1 |Minhovirus|Rountreeviridae|Enterococcus phage phiSHEF14|dsDNA|Enterococcus faecium E1071|Enterococcus phage phiSHEF14, complete genome|	19390	0.990929365158081	0.007251302968502153
+OL829977.1 |Emalynvirus||Emalynvirus emalyn|dsDNA|Gordonia rubripertincta|Gordonia phage Amok, complete genome|USA	45278	0.9882512092590332	0.007855578215877332
+CP062427.1 |Dubowvirus||Staphylococcus phage ECel-2020j|dsDNA|Staphylococcus aureus|Staphylococcus phage ECel-2020j, complete genome|	43078	0.9977344274520874	0.0048153183775209605
+MT080103.1 |Tequintavirus|Demerecviridae|Escherichia phage ECOP18|dsDNA|Escherichia coli|Escherichia phage ECOP18, complete genome|	111345	0.9685714840888977	0.011197975677921293
+MW526260.1 |Bruynoghevirus||Pseudomonas phage PhL_UNISO_PA-DSM_ph0041x|dsDNA|Pseudomonas aeruginosa|Pseudomonas phage PhL_UNISO_PA-DSM_ph0041x, complete genome|	44477	0.9996935129165649	0.0023604501850592943
+OM439672.1 |Phietavirus||Staphylococcus phage vB_SauS_I73|dsDNA|Staphylococcus aureus|Staphylococcus phage vB_SauS_I73, complete genome|Argentina	43575	0.9981701970100403	0.0044754135508724225
+OL791268.1 |||Phage zth2-2|dsDNA||UNVERIFIED: Phage zth2-2, complete genome|	40470	0.9065572619438171	0.017240728151673088
+OL774870.1 |||Streptococcus phage OlisA3|dsDNA|Streptococcus oralis|Streptococcus phage OlisA3, complete genome|	38516	0.8912266492843628	0.018354860639021073
+OL800606.1 |Felixounavirus||Felixounavirus RPN213|dsDNA|Salmonella enterica|Salmonella phage vB_SAg-RPN213, complete genome|Thailand	86124	1.0	0.0
+OL964745.1 |Tequatrovirus|Straboviridae|Tequatrovirus T4|dsDNA|Escherichia|Mutant Escherichia phage T4 clone T4_7t1, complete genome|	159752	0.9455528855323792	0.014143817508875292
+CAKLQF020000032.1 |||Acinetobacter phage MD-2021a|dsDNA|Acinetobacter|Acinetobacter phage MD-2021a strain 5899STDY8049186 genome assembly, contig: ERS3583562SCcontig000032, whole genome shotgun sequence|	35987	0.27465730905532837	0.1260858070851273
+CAKLQF020000035.1 |||Acinetobacter phage MD-2021a|dsDNA|Acinetobacter|Acinetobacter phage MD-2021a strain 5899STDY8049186 genome assembly, contig: ERS3583562SCcontig000035, whole genome shotgun sequence|	23017	0.21446013450622559	0.14189138152428432
+CAKLQF020000038.1 |||Acinetobacter phage MD-2021a|dsDNA|Acinetobacter|Acinetobacter phage MD-2021a strain 5899STDY8049186 genome assembly, contig: ERS3583562SCcontig000038, whole genome shotgun sequence|	12142	0.0520469956099987	0.23160737215801797
+CAKLQF020000047.1 |||Acinetobacter phage MD-2021a|dsDNA|Acinetobacter|Acinetobacter phage MD-2021a strain 5899STDY8049186 genome assembly, contig: ERS3583562SCcontig000047, whole genome shotgun sequence|	3701	0.1839873492717743	0.15239066394742806
+CAKLQF020000049.1 |||Acinetobacter phage MD-2021a|dsDNA|Acinetobacter|Acinetobacter phage MD-2021a strain 5899STDY8049186 genome assembly, contig: ERS3583562SCcontig000049, whole genome shotgun sequence|	3065	0.6922287940979004	0.03378276304856862
+CAKLQF020000050.1 |||Acinetobacter phage MD-2021a|dsDNA|Acinetobacter|Acinetobacter phage MD-2021a strain 5899STDY8049186 genome assembly, contig: ERS3583562SCcontig000050, whole genome shotgun sequence|	2952	0.09479755163192749	0.1927826875141627
+CAKLQF020000054.1 |||Acinetobacter phage MD-2021a|dsDNA|Acinetobacter|Acinetobacter phage MD-2021a strain 5899STDY8049186 genome assembly, contig: ERS3583562SCcontig000054, whole genome shotgun sequence|	2237	0.530211329460144	0.052401994108316335
+CAKLQH020000066.1 |||Acinetobacter phage MD-2021a|dsDNA|Acinetobacter|Acinetobacter phage MD-2021a strain 5899STDY8049191 genome assembly, contig: ERS3583567SCcontig000066, whole genome shotgun sequence|	8294	0.8267938494682312	0.023245713422463933
+CAKLQH020000085.1 |||Acinetobacter phage MD-2021a|dsDNA|Acinetobacter|Acinetobacter phage MD-2021a strain 5899STDY8049191 genome assembly, contig: ERS3583567SCcontig000085, whole genome shotgun sequence|	3315	0.22125157713890076	0.14009743938363925
+CAKLQH020000090.1 |||Acinetobacter phage MD-2021a|dsDNA|Acinetobacter|Acinetobacter phage MD-2021a strain 5899STDY8049191 genome assembly, contig: ERS3583567SCcontig000090, whole genome shotgun sequence|	2237	0.530211329460144	0.052401994108316335
+OV696610.1 |||Escherichia phage Tritos|dsDNA|Escherichia coli LF82|Escherichia phage Tritos genome assembly, complete genome: monopartite|	46360	0.17829583585262299	0.15441120930583882
+OL355129.1 |Pseudotevenvirus|Straboviridae|Enterobacter phage ENC20|dsDNA|Enterobacter cloacae|MAG: Enterobacter phage ENC20, complete genome|USA	181927	0.9999523162841797	0.001114132487347987
+OL960581.1 |Tequatrovirus|Straboviridae|Escherichia phage vB_EcoM_SA20RB|dsDNA|Escherichia coli O156:H25|Escherichia phage vB_EcoM_SA20RB, complete genome|South Africa	166337	0.9699081182479858	0.010876954452753228
+OL856099.1 |Wifcevirus||Shigella phage CWP003|dsDNA|Shigella flexneri|Shigella phage CWP003, complete genome|China	68721	0.9834222197532654	0.00879975828990105
+OL955261.1 |||Erythrobacter phage vB_EliS-L02|dsDNA|Erythrobacter sp.|Erythrobacter phage vB_EliS-L02, complete genome|China	150063	0.9882761240005493	0.007836694614396858
+OK539913.1 |Mooglevirus||Citrobacter phage vB_CbrM_HP1|dsDNA|Citrobacter braakii|Citrobacter phage vB_CbrM_HP1, complete genome|China	89335	1.0	0.0
+MN812689.1 |||Dickeya phage Setonix|dsDNA|Pectobacterium carotovorum|UNVERIFIED: Dickeya phage Setonix, complete genome|Russia	41545	0.6613881587982178	0.03612432963214744
+OK490420.1 |||Klebsiella phage Kp4866-3|dsDNA|Klebsiella pneumoniae|UNVERIFIED: Klebsiella phage Kp4866-3, complete genome|	33090	0.35844624042510986	0.10606918951582446
+MT515751.1 |Tequatrovirus|Straboviridae|Tequatrovirus pyps2t|dsDNA|Yersinia pseudotuberculosis|Yersinia phage PYps11T, complete genome|Germany	169490	0.9232621192932129	0.016013294055442252
+MT515755.1 |Tequatrovirus|Straboviridae|Tequatrovirus sf21|dsDNA|Yersinia pseudotuberculosis|Yersinia phage PYps47T, complete genome|Germany	165778	0.9417142868041992	0.014578140342926203
+MW147599.1 ||Chaseviridae|Yersinia phage PYps3T|dsDNA|Yersinia pseudotuberculosis|Yersinia phage PYps3T, complete genome|Germany	52854	0.9999790787696838	0.000849762066621346
+MW147603.1 |Berlinvirus|Autographiviridae|Berlinvirus PYPS50|dsDNA|Yersinia pseudotuberculosis|Yersinia phage PYps49T, complete genome|Germany	39459	1.0	0.0
+CAKLQF010000001.1 |||Acinetobacter phage MD-2021a|dsDNA|Acinetobacter|Acinetobacter phage MD-2021a strain 5899STDY8049186 genome assembly, contig: ERS3583562SCcontig000001, whole genome shotgun sequence|	378590	0.7674601078033447	0.02800438099554347
+CAKLQF010000030.1 |||Acinetobacter phage MD-2021a|dsDNA|Acinetobacter|Acinetobacter phage MD-2021a strain 5899STDY8049186 genome assembly, contig: ERS3583562SCcontig000030, whole genome shotgun sequence|	48771	0.12911662459373474	0.174163456454415
+CAKLQF010000033.1 |||Acinetobacter phage MD-2021a|dsDNA|Acinetobacter|Acinetobacter phage MD-2021a strain 5899STDY8049186 genome assembly, contig: ERS3583562SCcontig000033, whole genome shotgun sequence|	26725	0.13466361165046692	0.17191630787823853
+CAKLQF010000046.1 |||Acinetobacter phage MD-2021a|dsDNA|Acinetobacter|Acinetobacter phage MD-2021a strain 5899STDY8049186 genome assembly, contig: ERS3583562SCcontig000046, whole genome shotgun sequence|	4096	0.3513745963573456	0.10746657602537955
+CAKLQF010000053.1 |||Acinetobacter phage MD-2021a|dsDNA|Acinetobacter|Acinetobacter phage MD-2021a strain 5899STDY8049186 genome assembly, contig: ERS3583562SCcontig000053, whole genome shotgun sequence|	2276	0.45301491022109985	0.08272905808595815
+CAKLQF010000059.1 |||Acinetobacter phage MD-2021a|dsDNA|Acinetobacter|Acinetobacter phage MD-2021a strain 5899STDY8049186 genome assembly, contig: ERS3583562SCcontig000059, whole genome shotgun sequence|	1524	0.682864785194397	0.034575874310748544
+CAKLQH010000001.1 |||Acinetobacter phage MD-2021a|dsDNA|Acinetobacter|Acinetobacter phage MD-2021a strain 5899STDY8049191 genome assembly, contig: ERS3583567SCcontig000001, whole genome shotgun sequence|	328530	0.6930400133132935	0.033707228642646726
+CAKLQH010000047.1 |||Acinetobacter phage MD-2021a|dsDNA|Acinetobacter|Acinetobacter phage MD-2021a strain 5899STDY8049191 genome assembly, contig: ERS3583567SCcontig000047, whole genome shotgun sequence|	20467	0.7897350788116455	0.026172671651937457
+CAKLQH010000069.1 |||Acinetobacter phage MD-2021a|dsDNA|Acinetobacter|Acinetobacter phage MD-2021a strain 5899STDY8049191 genome assembly, contig: ERS3583567SCcontig000069, whole genome shotgun sequence|	7256	0.20236295461654663	0.14604577384998868
+CAKLQH010000091.1 |||Acinetobacter phage MD-2021a|dsDNA|Acinetobacter|Acinetobacter phage MD-2021a strain 5899STDY8049191 genome assembly, contig: ERS3583567SCcontig000091, whole genome shotgun sequence|	2179	0.004242992494255304	0.4048644157413702
+CAKLQH010000093.1 |||Acinetobacter phage MD-2021a|dsDNA|Acinetobacter|Acinetobacter phage MD-2021a strain 5899STDY8049191 genome assembly, contig: ERS3583567SCcontig000093, whole genome shotgun sequence|	1930	0.02922043390572071	0.2694878767278495
+OK272489.1 |Warwickvirus|Drexlerviridae|Escherichia phage JLBYU19|dsDNA|Escherichia coli|Escherichia phage JLBYU19, complete genome|USA	49897	0.9929172396659851	0.006741445728529345
+OL539439.1 |||Serratia phage vB_SmaS_Carrot|dsDNA|Serratia marcescens|Serratia phage vB_SmaS_Carrot, complete genome|USA	41293	0.8791530132293701	0.019317924314525267
+OL362041.1 |Tequatrovirus|Straboviridae|Tequatrovirus gee9062|dsDNA|Escherichia coli|Escherichia phage vB_Eco_OMNI12, complete genome|Australia	169246	0.9189369678497314	0.01642873328801269
+OL652658.1 |Jerseyvirus||Salmonella phage JD02|dsDNA|Salmonella enterica subsp. enterica serovar Enteritidis|Salmonella phage JD02, complete genome|China	43955	0.9686931371688843	0.011197975677921293
+LC645414.1 |Oslovirus||Oslovirus Lyz12581Vzw|dsDNA||Stx2a-converting phage Stx2_130296 DNA, complete sequence|	63015	0.33966413140296936	0.11005362942820454
+LC645435.1 |||Stx1a-converting phage Stx1_112808|dsDNA||Stx1a-converting phage Stx1_112808 DNA, complete sequence|	51061	0.21020391583442688	0.14368532366492937
+LC645444.1 |Oslovirus||Oslovirus Lyz12581Vzw|dsDNA||Stx2a-converting phage Stx2_Ech14022 DNA, complete sequence|	62996	0.34241732954978943	0.10950600498527079
+LC645445.1 |Oslovirus||Oslovirus Lyz12581Vzw|dsDNA||Stx2a-converting phage Stx2_H27V05_argW DNA, complete sequence|	64958	0.3307892084121704	0.11226301080142005
+LC645449.1 |Oslovirus||Oslovirus Lyz12581Vzw|dsDNA||Stx2a-converting phage Stx2_EC3734 DNA, complete sequence|	62983	0.2944214940071106	0.12064732985875067
+OK649958.1 |||Hardygib1 virus|dsDNA|Haloferax gibbonsii|Hardygib1 virus isolate HG1, partial genome|Australia	73193	1.0	0.0
+MW927524.1 |Fernvirus||Paenibacillus phage Riker|dsDNA|Paenibacillus larvae|Paenibacillus phage Riker, complete genome|USA	39482	0.5799035429954529	0.04447088148651711
+MZ348421.1 |Cbunavirus|Schitoviridae|Kosakonia phage Kc283|dsDNA|Kosakonia cowanii|Kosakonia phage Kc283, complete genome|Czech Republic	76232	0.9999386072158813	0.0013029685021527305
+MZ612122.1 |Webervirus|Drexlerviridae|Klebsiella phage vB_Kpn-VAC111|dsDNA|Klebsiella pneumoniae|Klebsiella phage vB_Kpn-VAC111 contig17 genomic sequence, sequence|Spain	1572	0.9971840381622314	0.005117456001208551
+MZ501072.1 |Epseptimavirus|Demerecviridae|Escherichia phage GreteKellenberger|dsDNA|Escherichia coli K-12|Escherichia phage GreteKellenberger strain Bas26, complete genome|Switzerland	114196	0.9786085486412048	0.009479567943198127
+MZ501077.1 |Henuseptimavirus|Drexlerviridae|Escherichia phage IsaakIselin|dsDNA|Escherichia coli K-12|Escherichia phage IsaakIselin strain Bas10, complete genome|Switzerland	49911	0.9985782504081726	0.004192159528665307
+MZ501082.1 |Vequintavirus||Vequintavirus APECc02|dsDNA|Escherichia coli K-12|Escherichia phage JeffSchatz strain Bas55, complete genome|Switzerland	135630	0.99411940574646	0.006382657300400332
+MZ501089.1 |Tequatrovirus|Straboviridae|Tequatrovirus pyps2t|dsDNA|Escherichia coli K-12|Escherichia phage KarlGJung, complete genome|Switzerland	167832	0.9338988065719604	0.015257949996223279
+MZ501091.1 |Seuratvirus||Escherichia phage KurtStettler|dsDNA|Escherichia coli K-12|Escherichia phage KurtStettler strain Bas22, complete genome|Switzerland	58567	0.8960655927658081	0.01803383941385301
+MZ501107.1 |Dhillonvirus||Escherichia phage TheodorHerzl|dsDNA|Escherichia coli K-12|Escherichia phage TheodorHerzl strain Bas14, complete genome|Switzerland	43627	0.9518307447433472	0.013407357051136793
+MZ234008.1 |Dhillonvirus||Escherichia phage vB_EcoS-22664B1|dsDNA|Escherichia coli|Escherichia phage vB_EcoS-22664B1, complete genome|	45019	0.9815117120742798	0.009083012312108165
+MZ234018.1 |Tequatrovirus|Straboviridae|Tequatrovirus zeezee23|dsDNA|Escherichia coli|Escherichia phage vB_EcoM-101117BS1, complete genome|	167080	0.8918405175209045	0.018317093436060125
+MZ234021.1 |Kayfunavirus|Autographiviridae|Kayfunavirus LM33P1|dsDNA|Escherichia coli|Escherichia phage vB_EcoP-101118UKE1, complete genome|	40233	0.999998152256012	0.0004343228340509102
+MZ234032.1 |Vectrevirus|Autographiviridae|Escherichia phage vB_EcoP-G3A1|dsDNA|Escherichia coli|Escherichia phage vB_EcoP-G3A1, complete genome|	44471	0.9999992847442627	0.0003587884281290128
+OK040781.1 |Paopuvirus|Orlajensenviridae|Microbacterium phage Gardevoir|dsDNA|Microbacterium sp.|Microbacterium phage Gardevoir, complete genome|USA	17396	0.9992614388465881	0.0031724450487196918
+OK108607.1 |Tequintavirus|Demerecviridae|Salmonella phage vB_SenS_S124|dsDNA|Salmonella enterica subsp. enterica serovar Enteritidis|Salmonella phage vB_SenS_S124, complete genome|China	110832	0.9694643020629883	0.010933605257194652
+MZ374835.1 |||Caudoviricetes sp.|dsDNA|Phrynocephalus erythrurus|MAG: Caudovirales sp. isolate 1PE-TERL-12 terminase large subunit gene, partial cds|China	1142	0.5413949489593506	0.050268147141022734
+MZ374849.1 |||Caudoviricetes sp.|dsDNA|Phrynocephalus erythrurus|MAG: Caudovirales sp. isolate 2PE-TERL-12 terminase large subunit gene, complete cds|China	2240	0.9511510133743286	0.013501775058539165
+MZ374862.1 |||Caudoviricetes sp.|dsDNA|Phrynocephalus erythrurus|MAG: Caudovirales sp. isolate 2PE-TERL-25 terminase large subunit gene, partial cds|China	1989	0.9999971985816956	0.0005098572399728076
+MZ374903.1 |||Caudoviricetes sp.|dsDNA|Phrynocephalus erythrurus|MAG: Caudovirales sp. isolate 2PE-TERL-66 terminase large subunit gene, partial cds|China	1329	0.9353506565093994	0.015163531988820908
+MZ643249.1 |Gorganvirus||Proteus phage vB_PmiS_PM-CJR|dsDNA|Proteus sp. (in: enterobacteria)|Proteus phage vB_PmiS_PM-CJR, complete genome|United Kingdom	54169	0.9985755681991577	0.004192159528665307
+MZ374957.1 |||Caudoviricetes sp.|dsDNA|Phrynocephalus erythrurus|MAG: Caudovirales sp. isolate 3PE-TERL-17 terminase large subunit gene, complete cds|China	1776	0.1678103357553482	0.15798020998564846
+MZ374992.1 |||Caudoviricetes sp.|dsDNA|Phrynocephalus theobaldi|MAG: Caudovirales sp. isolate 4PT-TERL-1 terminase large subunit gene, complete cds|China	3371	0.9431029558181763	0.014408187929601933
+MZ374994.1 |||Caudoviricetes sp.|dsDNA|Phrynocephalus theobaldi|MAG: Caudoviricetes sp. isolate 4PT-TERL-3 terminase large subunit gene, complete cds|China	3246	0.9834800362586975	0.008780874688420575
+MZ375000.1 |||Caudoviricetes sp.|dsDNA|Phrynocephalus theobaldi|MAG: Caudovirales sp. isolate 4PT-TERL-10 terminase large subunit gene, complete cds|China	2482	0.5193398594856262	0.05466802628597326
+MZ375031.1 |||Caudoviricetes sp.|dsDNA|Phrynocephalus theobaldi|MAG: Caudoviricetes sp. isolate 4PT-TERL-43 terminase large subunit gene, partial cds|China	1033	0.955766499042511	0.012897499811163985
+MZ375081.1 |||Caudoviricetes sp.|dsDNA|Phrynocephalus theobaldi|MAG: Caudovirales sp. isolate 6PT-TERL-40 terminase large subunit gene, partial cds|China	1592	0.035583678632974625	0.2572324193670217
+OK042080.1 |Teseptimavirus|Autographiviridae|Yersinia phage vB_YenP_Rambo|dsDNA|Yersinia enterocolitica|Yersinia phage vB_YenP_Rambo, complete genome|Germany	40327	1.0	0.0
+OK040170.1 |Moabitevirus||Moabitevirus mv2050HW|dsDNA|Serratia marcescens|Serratia phage BUCT660, complete genome|China	272720	0.988309383392334	0.007836694614396858
+OK076929.1 |Tequatrovirus|Straboviridae|Escherichia phage vB_EcoM_C2-3|dsDNA|Escherichia coli|Escherichia phage vB_EcoM_C2-3, complete genome|Spain	167069	0.916921079158783	0.016485384092454113
+MZ687130.1 |||Wolbachia phage WO|dsDNA|Andricus hakonensis|Wolbachia phage WO isolate WOS-4T capsid protein pseudogene, partial sequence|China	1252	0.9822607040405273	0.008950827101744845
+MZ417317.1 ||Herelleviridae|Staphylococcus phage PG-2021_14|dsDNA|Mammaliicoccus vitulinus|UNVERIFIED: Staphylococcus phage PG-2021_14, complete genome|Switzerland	145090	0.9999993443489075	0.0003587884281290128
+MZ417344.1 |Sciuriunavirus|Herelleviridae|Staphylococcus phage PG-2021_76|dsDNA|Mammaliicoccus vitulinus|UNVERIFIED: Staphylococcus phage PG-2021_76, complete genome|Switzerland	139439	1.0	0.0
+MZ334498.1 |Haloferacalesvirus|Hafunaviridae|Halorubrum virus HRTV-20|dsDNA|Halorubrum sp.|Halorubrum virus HRTV-20 isolate HRTV-20/9, complete genome|Thailand	76259	1.0	0.0
+MZ334502.1 |Haloferacalesvirus|Hafunaviridae|Haloferacalesvirus hv5|dsDNA|Haloarcula californiae|Haloarcula phage HCTV-7 isolate HCTV-7/16, complete genome|Thailand	76008	1.0	0.0
+MZ334508.1 |Haloferacalesvirus|Hafunaviridae|Haloarcula virus HCTV-10|dsDNA|Haloarcula californiae|Haloarcula virus HCTV-10 isolate HCTV-10/19, complete genome|Thailand	75019	1.0	0.0
+MZ334527.1 |Hatrivirus|Pyrstoviridae|Hatrivirus HATV3|dsDNA|Halorubrum sp.|Halorubrum virus HATV-3 isolate HATV-3/30, complete genome|Thailand	42293	0.9980862140655518	0.004513180753833371
+MZ747510.1 |Getalongvirus||Gordonia phage Whitney|dsDNA|Gordonia terrae|Gordonia phage Whitney, complete genome|USA	55784	0.9785031676292419	0.009517335146159076
+MW960031.1 |Rigallicvirus||Rhizobium phage RHph_X2_24|dsDNA|Sinorhizobium americanum|Rhizobium phage RHph_X2_24, complete genome|Mexico	55689	0.9981899857521057	0.004456529949391948
+MZ782998.1 |Nouzillyvirus|Drexlerviridae|Bacteriophage CJ24|dsDNA||UNVERIFIED: Bacteriophage CJ24 hypothetical protein (ORF13) gene, complete sequence|	957	0.9939570426940918	0.006105477055071591
