@@ -31,7 +31,7 @@ Download Extra suplementary data of VirDetect-AI
 ## Option 1 - Execute Notebook
 1.- Download the notebook Notebook_api_VirDetect-AI.ipynb located in the Notebook_VirDetect-AI folder in this repository.
 
-2.- Execute the notebook Notebook_api_VirDetect-AI.ipynb on Google colab (GPU)  or jupiter. Remember the format allow is only Fasta and the output is generated and saved in the outputs folder, which is a temporary folder in google drive [content], remember to download your results.
+2.- Execute the notebook Notebook_api_VirDetect-AI.ipynb on Google colab (GPU)  or jupiter. Remember that the allowed format is only Fasta and the output is generated and saved in the outputs folder, which is a temporary folder in google drive [content], remember to download your results.
 
 <!-- INSTALL API -->
 ## Option 2 -Install API consult
