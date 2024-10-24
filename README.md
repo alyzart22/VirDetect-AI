@@ -29,16 +29,8 @@ Download Extra suplementary data of VirDetect-AI
 # There are two options to test the VirDetect-AI tool, through a google colab notebook or locally by installing a predefined environment
 <!-- Execute notebook -->
 ## Option 1 - Execute Notebook
-1. Clone the repository to local (or download manually all repository) 
-   ```sh
-   git clone https://github.com/alyzart22/VirDetect-AI.git
-   ```
-
-2.- Download from this link the model and colocate inside the folder Notebook_VirDetect-AI 
-   ```sh
-https://drive.google.com/file/d/1jVLshzOz3bOPWuIbaoNSAV4yRl4JBAOD/view?usp=sharing
-   ```
-3.-Inside the folder named Notebook_VirDetect-AI execute on Google colab (GPU)  or jupiter, the notebook Notebook_api_VirDetect-AI.ipynb
+1.- Download the notebook Notebook_api_VirDetect-AI.ipynb located in the Notebook_VirDetect-AI folder in this repository
+2.- Execute the notebook Notebook_api_VirDetect-AI.ipynb on Google colab (GPU)  or jupiter. Remember the format allow is only Fasta and the output is generated and saved in the outputs folder, which is a temporary folder in google drive [content], remember to download your results.
 
 <!-- INSTALL API -->
 ## Option 2 -Install API consult
