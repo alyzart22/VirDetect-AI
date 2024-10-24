@@ -1,6 +1,14 @@
 # -*- coding: utf-8 -*-
-#Version update Mayo 7 2024
-#Programa Ali Zarate feb 2023 - Nov2023: Programa que es la api que voy a usar para hacer consultas a mis modelos y genera un reporte en csv y una imagen de propabilidades de clase
+"""
+VirDetect-AI: API for identifying partial virus protein sequences in metagenomic data
+Author Code: Alida Zárate
+Contact: alida.zarate@ibt.unam.mx
+GitHub Repository: https://github.com/alyzart22/VirDetect-AI
+Published on: [Pending]
+Description:
+This notebook contains a Deep Learning model VirDetect-AI for identifying partial virus protein sequences in metagenomic data
+License: [OA]
+"""
 import os
 import sys #para pasar parametro
 from Bio.Seq import Seq
