@@ -23,7 +23,7 @@ Download Extra suplementary data of VirDetect-AI
  ![model_image ](https://github.com/alyzart22/VirDetect-AI/blob/main/img/Metodology.jpg) -->
  # Motodology of VirDetect-AI
  <p align="left">
-   <img src="img/Metodology.jpg" width="600px">
+   <img src="img/Metodology.jpg" width="750px">
 </p>
 
 <!-- Model Deep Learning architecture
@@ -36,7 +36,7 @@ Download Extra suplementary data of VirDetect-AI
  ![model_image ](https://github.com/alyzart22/VirDetect-AI/blob/main/img/Api_virdetect-ai.JPG) -->
 # Api consult VirDetect-AI
  <p align="left">
-   <img src="img/Api_virdetect-ai.JPG" width="600px">
+   <img src="img/Api_virdetect-ai.JPG" width="750px">
 </p>
 <!-- Options-->
 # There are two options to test the VirDetect-AI tool, through a google colab notebook or locally by installing a predefined environment
@@ -100,7 +100,7 @@ https://drive.google.com/file/d/1jVLshzOz3bOPWuIbaoNSAV4yRl4JBAOD/view?usp=shari
 ### Output Api consult VirDetect-AI
  4. The output are the following 6 pie graphs and 3 files csv, report with the predictions by kmers, prediction by sequences and sequences unknown.
 <p align="left">
-   <img src="img/fig_s1.jpg" width="600px">
+   <img src="img/fig_s1.jpg" width="750px">
 </p>
 
 <!-- REFERENCE -->
