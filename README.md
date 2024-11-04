@@ -18,9 +18,13 @@ Download Extra suplementary data of VirDetect-AI
 [![Stars](https://img.shields.io/github/stars/alyzart22/DeepEukVirProt.svg)](https://github.com/alyzart22/VirDetect-AI/stargazers)
 [![Activity](https://img.shields.io/github/commit-activity/m/alyzart22/DeepEukVirProt.svg)](https://github.com/VirDetect-AI/VirDetect-AI/commits)
 
-<!-- Motodology of VirDetect-AI -->
-# Motodology of VirDetect-AI
- ![model_image ](https://github.com/alyzart22/VirDetect-AI/blob/main/img/Metodology.jpg)
+<!-- Motodology of VirDetect-AI 
+
+ ![model_image ](https://github.com/alyzart22/VirDetect-AI/blob/main/img/Metodology.jpg) -->
+ # Motodology of VirDetect-AI
+ <p align="center">
+   <img src="img/Metodology.jpg" width="500px">
+</p>
 
 <!-- Model Deep Learning architecture
 # Architecture of Model Deep Learning
