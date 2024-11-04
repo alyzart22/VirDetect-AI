@@ -22,7 +22,7 @@ Download Extra suplementary data of VirDetect-AI
 
  ![model_image ](https://github.com/alyzart22/VirDetect-AI/blob/main/img/Metodology.jpg) -->
  # Motodology of VirDetect-AI
- <p align="center">
+ <p align="left">
    <img src="img/Metodology.jpg" width="600px">
 </p>
 
@@ -35,7 +35,7 @@ Download Extra suplementary data of VirDetect-AI
 # Api consult VirDetect-AI
  ![model_image ](https://github.com/alyzart22/VirDetect-AI/blob/main/img/Api_virdetect-ai.JPG) -->
 # Api consult VirDetect-AI
- <p align="center">
+ <p align="left">
    <img src="img/Api_virdetect-ai.JPG" width="600px">
 </p>
 <!-- Options-->
@@ -99,8 +99,9 @@ https://drive.google.com/file/d/1jVLshzOz3bOPWuIbaoNSAV4yRl4JBAOD/view?usp=shari
    ```
 ### Output Api consult VirDetect-AI
  4. The output are the following 6 pie graphs and 3 files csv, report with the predictions by kmers, prediction by sequences and sequences unknown.
-
- ![Output image ](https://github.com/alyzart22/VirDetect-AI/blob/main/img/fig_s1.jpg)
+<p align="left">
+   <img src="img/fig_s1.jpg" width="600px">
+</p>
 
 <!-- REFERENCE -->
 # Reference and citation
