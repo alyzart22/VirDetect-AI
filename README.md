@@ -1,6 +1,6 @@
-<em> <h1 align="center"> VirDetect-AI </h1></em>
+<!-- <em> <h1 align="center"> VirDetect-AI </h1></em> -->
 <p align="center">
-   <img src="img/logo_t.png" width="200px">
+   <img src="img/logo.jpg" width="200px">
 </p>
 
 This repository contains a Deep Learning model for identifying partial virus protein sequences in metagenomic data.
@@ -18,7 +18,7 @@ Download Extra suplementary data of VirDetect-AI
 [![Stars](https://img.shields.io/github/stars/alyzart22/DeepEukVirProt.svg)](https://github.com/alyzart22/VirDetect-AI/stargazers)
 [![Activity](https://img.shields.io/github/commit-activity/m/alyzart22/DeepEukVirProt.svg)](https://github.com/VirDetect-AI/VirDetect-AI/commits)
 
-<!-- Motodology of VirDetect-AI-->
+<!-- Motodology of VirDetect-AI
 # Motodology of VirDetect-AI
  ![model_image ](https://github.com/alyzart22/VirDetect-AI/blob/main/img/Metodology.jpg)
 
