@@ -23,7 +23,7 @@ Download Extra suplementary data of VirDetect-AI
  ![model_image ](https://github.com/alyzart22/VirDetect-AI/blob/main/img/Metodology.jpg) -->
  # Motodology of VirDetect-AI
  <p align="center">
-   <img src="img/Metodology.jpg" width="500px">
+   <img src="img/Metodology.jpg" width="600px">
 </p>
 
 <!-- Model Deep Learning architecture
@@ -31,10 +31,13 @@ Download Extra suplementary data of VirDetect-AI
  ![model_image ](https://github.com/alyzart22/VirDetect-AI/blob/main/img/modelo_300_980.jpg)  -->
 
 
-<!-- Api consult VirDetect-AI-->
+<!-- Api consult VirDetect-AI
 # Api consult VirDetect-AI
- ![model_image ](https://github.com/alyzart22/VirDetect-AI/blob/main/img/Api_virdetect-ai.JPG)
-
+ ![model_image ](https://github.com/alyzart22/VirDetect-AI/blob/main/img/Api_virdetect-ai.JPG) -->
+# Api consult VirDetect-AI
+ <p align="center">
+   <img src="img/Api_virdetect-ai.JPG" width="600px">
+</p>
 <!-- Options-->
 # There are two options to test the VirDetect-AI tool, through a google colab notebook or locally by installing a predefined environment
 <!-- Execute notebook -->
