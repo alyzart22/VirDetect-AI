@@ -1,4 +1,7 @@
 <em> <h1 align="center"> VirDetect-AI </h1></em>
+<p align="center">
+   <img src="img/logo.jpg" width="300px">
+</p>
 
 This repository contains a Deep Learning model for identifying partial virus protein sequences in metagenomic data.
 In this repository are available the necessary data and the environment to run the query application.
