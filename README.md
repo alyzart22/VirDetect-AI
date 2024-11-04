@@ -17,7 +17,7 @@ Download Extra suplementary data of VirDetect-AI
 
 <!-- Motodology of VirDetect-AI-->
 # Motodology of VirDetect-AI
- ![model_image width="300px" ](https://github.com/alyzart22/VirDetect-AI/blob/main/img/Metodology.jpg)
+ ![model_image ](https://github.com/alyzart22/VirDetect-AI/blob/main/img/Metodology.jpg)
 
 <!-- Model Deep Learning architecture-->
 # Architecture of Model Deep Learning
