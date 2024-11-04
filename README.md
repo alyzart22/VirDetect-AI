@@ -38,6 +38,7 @@ Download Extra suplementary data of VirDetect-AI
  <p align="left">
    <img src="img/Api_virdetect-ai.JPG" width="750px">
 </p>
+
 <!-- Options-->
 # There are two options to test the VirDetect-AI tool, through a google colab notebook or locally by installing a predefined environment
 <!-- Execute notebook -->
