@@ -33,10 +33,10 @@ Download Extra suplementary data of VirDetect-AI
 
 <!-- Api consult VirDetect-AI
 # Api consult VirDetect-AI
- ![model_image ](https://github.com/alyzart22/VirDetect-AI/blob/main/img/Api_virdetect-ai.JPG) -->
+ ![model_image ](https://github.com/alyzart22/VirDetect-AI/blob/main/img/API-VirDetect-AI.jpg) -->
 # Api consult VirDetect-AI
  <p align="left">
-   <img src="img/Api_virdetect-ai.JPG" width="750px">
+   <img src="img/API-VirDetect-AI.jpg" width="750px">
 </p>
 
 <!-- Options-->
