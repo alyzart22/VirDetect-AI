@@ -109,7 +109,7 @@ https://drive.google.com/file/d/1jVLshzOz3bOPWuIbaoNSAV4yRl4JBAOD/view?usp=shari
 <!-- REFERENCE -->
 # Reference and citation
 If you use VirDetect-AI plese cite this paper:
-[Doi paper here](https://github.com/alyzart22/VirDetect-AI)
+[Doi paper here](https://doi.org/10.1093/bib/bbaf001)
 
 
 <!-- CONTACT -->
