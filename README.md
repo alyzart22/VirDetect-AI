@@ -109,7 +109,8 @@ https://drive.google.com/file/d/1jVLshzOz3bOPWuIbaoNSAV4yRl4JBAOD/view?usp=shari
 <!-- REFERENCE -->
 # Reference and citation
 If you use VirDetect-AI plese cite this paper:
-[Doi paper here](https://doi.org/10.1093/bib/bbaf001)
+Alida Zárate, Lorena Díaz-González, Blanca Taboada, VirDetect-AI: a residual and convolutional neural network–based metagenomic tool for eukaryotic viral protein identification, Briefings in Bioinformatics, Volume 26, Issue 1, January 2025, bbaf001, [https://doi.org/10.1093/bib/bbaf001](https://doi.org/10.1093/bib/bbaf001)
+
 
 
 <!-- CONTACT -->
