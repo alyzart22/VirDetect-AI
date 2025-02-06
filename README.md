@@ -95,8 +95,8 @@ https://drive.google.com/file/d/1jVLshzOz3bOPWuIbaoNSAV4yRl4JBAOD/view?usp=shari
    ```
 
 ### Download model VirDetect-AI
-3. Download the VirDetectAI model.h5 from the following link and place it inside the /API_VirDetect-AI/ folder.
-Puedes copiar el código desde [Download Model](https://drive.google.com/file/d/1tu_BJ9hxy0I89cF-4E4hsJvkZYDGpL3N/view?usp=sharing)
+3. Download the VirDetect-AI model.h5 from the following link and place it inside the /API_VirDetect-AI/ folder.
+[Link to download model.h5](https://drive.google.com/file/d/1tu_BJ9hxy0I89cF-4E4hsJvkZYDGpL3N/view?usp=sharing)
 ### Execute API consult VirDetect-AI
 4. In this section you can try with you own metagenomics data
    In this line you can replace the fasta file unknown.fasta for your own fasta.
