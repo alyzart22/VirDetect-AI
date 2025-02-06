@@ -101,8 +101,8 @@ https://drive.google.com/file/d/1jVLshzOz3bOPWuIbaoNSAV4yRl4JBAOD/view?usp=shari
 4. In this section you can try with you own metagenomics data
    In this line you can replace the fasta file unknown.fasta for your own fasta.
    Execute this line.
-   ```sh
-   python3 ./VirDetect-AI/api_virdetect-ai.py ./API_VirDetect-AI/metagenomic_data/unknown/unknown.fasta ./API_VirDetect-AI/model.h5 ./API_virdetect-ai/ref_api_300_20_980.csv ./API_VirDetect-AI/metagenomic_data/unknown/ 300 40 label_output_ 0.80 0.90 978 979 0 
+   ```python
+   python3 ./VirDetect-AI/API_VirDetect-AI/api_virdetect-ai.py ./VirDetect-AI/API_VirDetect-AI/metagenomic_data/unknown/unknown.fasta ./VirDetect-AI/API_VirDetect-AI/model.h5 ./VirDetect-AI/API_virdetect-ai/ref_api_300_20_980.csv ./VirDetect-AI/API_VirDetect-AI/metagenomic_data/unknown/ 300 40 label_output_ 0.80 0.90 978 979 0 
    ```
 ### Output Api consult VirDetect-AI
  5. The output are the following 6 pie graphs and 3 files csv, report with the predictions by kmers, prediction by sequences and sequences unknown.
