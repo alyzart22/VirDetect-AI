@@ -180,8 +180,8 @@ def frecuencias(df, tipo, fl, id_comlumna):
 path_fasta = sys.argv[1]
 #path_modelo = sys.argv[2]
 #path_referencia = sys.argv[3]
-path_modelo = ./model.h5
-path_referencia = ./ref_api_300_20_980.csv
+path_modelo = /model.h5
+path_referencia = /ref_api_300_20_980.csv
 
 path_respaldo=path_fasta.rfind('/')
 path_create=path_fasta[:path_respaldo + 1]
