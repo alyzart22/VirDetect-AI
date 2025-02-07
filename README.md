@@ -60,10 +60,6 @@ Download Extra suplementary data of VirDetect-AI
    git clone https://github.com/alyzart22/VirDetect-AI.git
    
    ```
-2.- Download from this link the model and colocate inside the folder API_VirDetect-AI
-   ```sh
-https://drive.google.com/file/d/1jVLshzOz3bOPWuIbaoNSAV4yRl4JBAOD/view?usp=sharing
-   ```
 
 ### If you have GPU Nvidia GTX or RTX _*Drivers Nvidia should be updated_
 
