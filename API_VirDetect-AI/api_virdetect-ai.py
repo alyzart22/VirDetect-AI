@@ -4,7 +4,7 @@ VirDetect-AI: API for identifying partial virus protein sequences in metagenomic
 Author Code: Alida Zárate
 Contact: alida.zarate@ibt.unam.mx
 GitHub Repository: https://github.com/alyzart22/VirDetect-AI
-Published on: [Pending]
+Published on: VirDetect-AI: a residual and convolutional neural network–based metagenomic tool for eukaryotic viral protein identification, Briefings in Bioinformatics, 2025 DOI:10.1093/bib/bbaf001
 Description:
 This notebook contains a Deep Learning model VirDetect-AI for identifying partial virus protein sequences in metagenomic data
 License: [OA]
