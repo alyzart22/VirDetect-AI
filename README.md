@@ -100,10 +100,18 @@ https://drive.google.com/file/d/1jVLshzOz3bOPWuIbaoNSAV4yRl4JBAOD/view?usp=shari
 
 ### Execute API consult VirDetect-AI
 4. In this section you can try with you own metagenomics data
-   In this line you can replace the fasta file unknown.fasta for your own fasta.
-   Execute this line.
+   In this line, you can replace the `hepadna.fasta` file with your own FASTA file. The command accepts **3 arguments**:
+
+1. **`corona.fasta`** – the query containing the amino acid sequences.  
+2. **`40`** – the *kmer_stride* (recommended range: 20–60).  
+3. **`0`** – the execution mode:  
+   - **Mode 0 (default):** Allows input sequences **≥ 300 amino acids**.  
+   - **Mode 1:** Allows input sequences **> 255 amino acids**.
+
+Remember to run this command while you are **inside** the `/VirDetect-AI/API_VirDetect-AI/` directory.
+
    ```python
-   python3 ./VirDetect-AI/API_VirDetect-AI/api_virdetect-ai.py ./VirDetect-AI/API_VirDetect-AI/metagenomic_data/unknown/unknown.fasta ./VirDetect-AI/API_VirDetect-AI/model.h5 ./VirDetect-AI/API_VirDetect-AI/ref_api_300_20_980.csv 300 40 978 979 0
+   python ./api_virdetect-ai.py ./hepadna.fasta 40 0
    ```
 
 ### Output Api consult VirDetect-AI
