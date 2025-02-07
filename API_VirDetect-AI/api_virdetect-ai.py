@@ -32,6 +32,22 @@ import random
 
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'  # 0: default, 1: info, 2: warning, 3: error
 
+print("================================================================")
+print(r"""
+ __      ___      _____       _            _                 _____ 
+ \ \    / (_)    |  __ \     | |          | |          /\   |_   _|
+  \ \  / / _ _ __| |  | | ___| |_ ___  ___| |_ ______ /  \    | |  
+   \ \/ / | | '__| |  | |/ _ \ __/ _ \/ __| __|______/ /\ \   | |  
+    \  /  | | |  | |__| |  __/ ||  __/ (__| |_      / ____ \ _| |_ 
+     \/   |_|_|  |_____/ \___|\__\___|\___|\__|    /_/    \_\_____|
+""")
+print("================================================================")
+print("This work was published in:")
+print("<VirDetect-AI: a residual and convolutional neural network–based metagenomic tool for eukaryotic viral protein identification, Briefings in Bioinformatics, 2025>")
+print("DOI:10.1093/bib/bbaf001")
+print("Authors: Zárate A, Díaz-González L, Taboada B.")
+print("======================================\n")
+
 print("VirDetect-AI Initialization Processes...........................")
 
 print("Detecting GPUs  ..................................................")
