@@ -8,6 +8,10 @@
 This repository contains a Deep Learning model for identifying partial virus protein sequences in metagenomic data.
 In this repository are available the necessary data and the environment to run the query application.
 
+This work was published in **Briefings in Bioinformatics (2025)**:  
+*VirDetect-AI: a residual and convolutional neural network–based metagenomic tool for eukaryotic viral protein identification*  
+**Authors:** Zárate A, Díaz-González L, Taboada B
+
 Download Extra suplementary data of VirDetect-AI
 [https://zenodo.org/doi/10.5281/zenodo.13328820 ](https://zenodo.org/doi/10.5281/zenodo.13328820)
 
