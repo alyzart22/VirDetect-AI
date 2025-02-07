@@ -175,7 +175,7 @@ def frecuencias(df, tipo, fl, id_comlumna):
 #python api_externas.py D:/eukariota_2.fasta D:/modelo4.h5 D:/UAEM/BIO/Dataset/JULIO_2022/eucariontes30/datos_kmer/100_10/modelos/referencia_clases.csv D:/reporte_modelo4_eukariota_2.csv D:/ 100 10 protein_euk
 #python3 api_datasets.py /scratch/azarate/ali_project/Data/datasets_test/htj_nuevo.fasta /scratch/azarate/ali_project/Data/euk30/euk30_100_10_m_n_0/model3_m_n_0_5x5_12.h5 /scratch/azarate/ali_project/Data/datasets_test/referencia_clases_2230.csv /scratch/azarate/ali_project/Data/datasets_test/reporte_htj_prueba.csv D:/ 100 20 htj_prueba
 #python3 ./VirDetect-AI/API_VirDetect-AI/api_virdetect-ai.py ./VirDetect-AI/API_VirDetect-AI/metagenomic_data/unknown/unknown.fasta ./VirDetect-AI/API_VirDetect-AI/model.h5 ./VirDetect-AI/API_VirDetect-AI/ref_api_300_20_980.csv 300 40 978 979 0
-#Arguments, 1 fasta query, 2 model path, 3 file reference, 4 kmer_len 300, 5 kmer_stride 40, 6 Viral negative class 978 ,7 negative class 979 ,8 modo 0 or 1
+#Arguments, 1 fasta query, 2 model path, 3 file reference, 4 kmer_stride 40, 5 mode 0 or 1
 
 path_fasta = sys.argv[1]
 path_modelo = sys.argv[2]
@@ -186,12 +186,15 @@ path_create=path_fasta[:path_respaldo + 1]
 
 tipo=os.path.splitext(os.path.basename(path_fasta))[0]
 
-kmer_long= int(sys.argv[4])
-kmer_stride= int(sys.argv[5])
+#kmer_long= int(sys.argv[4])
+kmer_long= 300
+kmer_stride= int(sys.argv[4])
 
-clase_negativa_pro=int(sys.argv[6]) #978
-clase_negativa_variada=int(sys.argv[7]) #979
-modo = int(sys.argv[8]) # 0 = exacto just 300aa, # 1 = hasta 250 aa filled to 300 
+#clase_negativa_pro=int(sys.argv[6]) #978
+#clase_negativa_variada=int(sys.argv[7]) #979
+clase_negativa_pro= 678 #978
+clase_negativa_variada= 679 #979
+modo = int(sys.argv[5]) # 0 = exacto just 300aa, # 1 = hasta 250 aa filled to 300 
 
 fecha= datetime.now()
 fecha_=str(fecha.hour)+'-'+str(fecha.minute)+'-'+str(fecha.second)+'_'+str(fecha.day)+'-'+str(fecha.month)+'-'+str(fecha.year)
