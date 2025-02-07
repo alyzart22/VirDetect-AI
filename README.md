@@ -102,7 +102,7 @@ https://drive.google.com/file/d/1jVLshzOz3bOPWuIbaoNSAV4yRl4JBAOD/view?usp=shari
 4. In this section you can try with you own metagenomics data
    In this line, you can replace the `hepadna.fasta` file with your own FASTA file. The command accepts **3 arguments**:
 
-1. **`corona.fasta`** – the query containing the amino acid sequences.  
+1. **`hepadna.fasta`** – the query containing the amino acid sequences.  
 2. **`40`** – the *kmer_stride* (recommended range: 20–60).  
 3. **`0`** – the execution mode:  
    - **Mode 0 (default):** Allows input sequences **≥ 300 amino acids**.  
