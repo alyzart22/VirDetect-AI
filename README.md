@@ -142,4 +142,4 @@ Project Link: [https://github.com/alyzart22/VirDetect-AI](https://github.com/aly
 
 <!-- Funding -->
 # Funding
-This research was partially supported by grants by PAPIIT-DGAPA-IN230523 awarded to BT.
+This research was partially supported by grants by PAPIIT-DGAPA-IN230523 awarded to Blanca Taboada.
