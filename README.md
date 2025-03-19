@@ -139,3 +139,7 @@ Project Link: [https://github.com/alyzart22/VirDetect-AI](https://github.com/aly
  [![alt test](https://github.com/alyzart22/VirDetect-AI/blob/main/img/use_icon.png)](https://www.researchgate.net/profile/Blanca-Taboada)
  [![alt test](https://github.com/alyzart22/VirDetect-AI/blob/main/img/use_icon.png)](https://www.researchgate.net/profile/Lorena-Diaz-Gonzalez) 
  #### Alida Zárate |  Blanca Taboada  | Lorena Díaz  
+
+<!-- Funding -->
+# Funding
+This research was partially supported by grants by PAPIIT-DGAPA-IN230523 awarded to BT.
