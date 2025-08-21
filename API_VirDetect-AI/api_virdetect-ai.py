@@ -210,8 +210,8 @@ kmer_stride= int(sys.argv[2])
 
 #clase_negativa_pro=int(sys.argv[6]) #978
 #clase_negativa_variada=int(sys.argv[7]) #979
-clase_negativa_pro= 678 #978
-clase_negativa_variada= 679 #979
+clase_negativa_pro= 978 #978
+clase_negativa_variada= 979 #979
 modo = int(sys.argv[3]) # 0 = exacto just 300aa, # 1 = hasta 250 aa filled to 300 
 
 fecha= datetime.now()
