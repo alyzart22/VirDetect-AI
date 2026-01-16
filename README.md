@@ -140,6 +140,10 @@ Project Link: [https://github.com/alyzart22/VirDetect-AI](https://github.com/aly
  [![alt test](https://github.com/alyzart22/VirDetect-AI/blob/main/img/use_icon.png)](https://www.researchgate.net/profile/Lorena-Diaz-Gonzalez) 
  #### Alida Zárate |  Blanca Taboada  | Lorena Díaz  
 
+ <!-- Acknowledgements -->
+# Acknowledgements
+We also extend our sincere appreciation to the National Autonomous University of Mexico (UNAM) for grant-ing access to the MIZTLI supercomputer, supported by the Gen-eral Directorate of Computing and Information and Communica-tion Technologies (DGTIC) through project LANCAD-UNAM-DGTIC-350. Lastly, we wish to thank Jerome Verleyen, Juan Manuel Hurtado, and Roberto Bahena from UNAM’s Instituto de Biotecnología for their indispensable assistance with computation-al support.
+
 <!-- Funding -->
 # Funding
 This research was partially supported by grants by PAPIIT-DGAPA-IN230523 awarded to Blanca Taboada.
